@@ -1,1 +1,88 @@
+name: Backup replaced files
+ 
+# Runs after every push to main. Whenever a push MODIFIES a file that already
+# existed (not a brand-new file), it saves the file's PRE-push version into
+# backups/ with a date stamp, then commits that backup back to main.
+#
+# paths-ignore on backups/** and this workflow file itself prevents the
+# backup commit from re-triggering this same workflow (no infinite loop).
+ 
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "backups/**"
+      - ".github/workflows/backup-on-update.yml"
+ 
+permissions:
+  contents: write
+ 
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+ 
+      - name: Back up pre-push versions of modified files
+        env:
+          BEFORE: ${{ github.event.before }}
+          AFTER: ${{ github.event.after }}
+        run: |
+          set -e
+ 
+          # Skip on the very first push to the branch (no "before" commit to diff against)
+          if [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            echo "First push to branch, nothing to diff against. Skipping."
+            exit 0
+          fi
+ 
+          mkdir -p backups
+          STAMP=$(date -u +"%Y-%m-%d_%H%M%S")
+          CHANGED=false
+ 
+          # Only files marked "M" (modified) — added files (A) have no prior
+          # version to back up, and deleted files (D) are left alone.
+          git diff --name-status "$BEFORE" "$AFTER" | grep '^M' | cut -f2- | while IFS= read -r FILE; do
+            # Never back up something already inside backups/ or the workflow itself
+            case "$FILE" in
+              backups/*|.github/workflows/*) continue ;;
+            esac
+ 
+            if [ -z "$FILE" ]; then
+              continue
+            fi
+ 
+            BASENAME=$(basename -- "$FILE")
+            NAME="${BASENAME%.*}"
+            EXT="${BASENAME##*.}"
+            if [ "$NAME" = "$EXT" ]; then
+              DEST="backups/${NAME}_${STAMP}"
+            else
+              DEST="backups/${NAME}_${STAMP}.${EXT}"
+            fi
+ 
+            echo "Backing up pre-push version of $FILE -> $DEST"
+            git show "$BEFORE:$FILE" > "$DEST"
+          done
+ 
+          if [ -n "$(git status --porcelain backups/)" ]; then
+            echo "changed=true" >> "$GITHUB_ENV"
+          else
+            echo "No modified tracked files to back up."
+          fi
+ 
+      - name: Commit backups
+        if: env.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add backups/
+          git commit -m "Backup pre-push file versions [automated]"
+          git push
+ 
 
+
+Downloaded google-merchant-feed-llc.csv Show in 
