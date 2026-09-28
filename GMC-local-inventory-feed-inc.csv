@@ -1,259 +1,253 @@
-id,store code,quantity,price,sale price,availability
-gla_17262,1010,10,2775.00 CAD,2000.00 CAD,in_stock
-gla_22122,1010,10,49.05 CAD,,in_stock
-gla_473,1010,10,15.00 CAD,,in_stock
-gla_20241,1010,10,10.00 CAD,,in_stock
-gla_428,1010,10,225.00 CAD,162.50 CAD,in_stock
-gla_19314,1010,10,200.00 CAD,,in_stock
-gla_1000,1010,10,250.00 CAD,162.00 CAD,in_stock
-gla_18329,1010,10,550.00 CAD,,in_stock
-gla_1705,1010,10,263.20 CAD,175.00 CAD,in_stock
-gla_332,1010,10,150.53 CAD,129.00 CAD,in_stock
-gla_470,1010,10,35.00 CAD,,in_stock
-gla_275,1010,10,10.00 CAD,,in_stock
-gla_1075,1010,10,10.00 CAD,5.00 CAD,in_stock
-gla_22712,1010,10,50.00 CAD,47.99 CAD,in_stock
-gla_22664,1010,10,80.00 CAD,76.09 CAD,in_stock
-gla_18331,1010,10,495.00 CAD,,in_stock
-gla_281,1010,10,25.00 CAD,,in_stock
-gla_17354,1010,10,330.00 CAD,320.00 CAD,in_stock
-gla_1064,1010,10,10.00 CAD,,in_stock
-gla_262,1010,10,100.00 CAD,95.00 CAD,in_stock
-gla_1005,1010,10,250.00 CAD,230.00 CAD,in_stock
-gla_22688,1010,10,21.75 CAD,,in_stock
-gla_21251,1010,10,40.00 CAD,35.50 CAD,in_stock
-gla_992,1010,10,110.00 CAD,75.00 CAD,in_stock
-gla_266,1010,10,69.35 CAD,40.75 CAD,in_stock
-gla_22678,1010,10,55.10 CAD,,in_stock
-gla_1073,1010,10,5.00 CAD,,in_stock
-gla_22705,1010,10,110.00 CAD,99.00 CAD,in_stock
-gla_17332,1010,10,440.00 CAD,372.50 CAD,in_stock
-gla_22020,1010,10,126.75 CAD,,in_stock
-gla_20263,1010,10,40.00 CAD,24.35 CAD,in_stock
-gla_1058,1010,10,245.00 CAD,,in_stock
-gla_467,1010,10,65.00 CAD,,in_stock
-gla_475,1010,10,15.00 CAD,,in_stock
-gla_16957,1010,10,495.00 CAD,,in_stock
-gla_21237,1010,10,200.00 CAD,,in_stock
-gla_270,1010,10,147.90 CAD,79.95 CAD,in_stock
-gla_21244,1010,10,76.00 CAD,73.00 CAD,in_stock
-gla_1399,1010,10,85.00 CAD,,in_stock
-gla_22714,1010,10,50.00 CAD,47.23 CAD,in_stock
-gla_292,1010,10,185.00 CAD,150.00 CAD,in_stock
-gla_477,1010,10,36.95 CAD,,in_stock
-gla_18344,1010,10,150.00 CAD,,in_stock
-gla_20211,1010,10,155.00 CAD,113.00 CAD,in_stock
-gla_22668,1010,10,120.00 CAD,85.00 CAD,in_stock
-gla_481,1010,10,85.00 CAD,,in_stock
-gla_460,1010,10,95.00 CAD,,in_stock
-gla_973,1010,10,91.60 CAD,78.00 CAD,in_stock
-gla_345,1010,10,22.99 CAD,20.50 CAD,in_stock
-gla_396,1010,10,41.00 CAD,,in_stock
-gla_22657,1010,10,74.12 CAD,,in_stock
-gla_19317,1010,10,200.00 CAD,,in_stock
-22178,1010,10,56.97 CAD,45.49 CAD,in_stock
-gla_1036,1010,10,170.00 CAD,141.00 CAD,in_stock
-gla_20268,1010,10,126.00 CAD,56.00 CAD,in_stock
-gla_349,1010,10,178.00 CAD,148.00 CAD,in_stock
-gla_248,1010,10,480.00 CAD,333.65 CAD,in_stock
-gla_17226,1010,10,204.00 CAD,,in_stock
-gla_1152,1010,10,76.40 CAD,63.99 CAD,in_stock
-gla_22720,1010,10,300.00 CAD,120.00 CAD,in_stock
-gla_341,1010,10,59.00 CAD,52.80 CAD,in_stock
-gla_20188,1010,10,40.00 CAD,24.35 CAD,in_stock
-gla_430,1010,10,136.89 CAD,,in_stock
-gla_1029,1010,10,65.00 CAD,59.00 CAD,in_stock
-gla_17541,1010,10,12.00 CAD,,in_stock
-gla_1054,1010,10,33.99 CAD,,in_stock
-gla_22673,1010,10,42.13 CAD,,in_stock
-gla_424,1010,10,23.01 CAD,,in_stock
-gla_400,1010,10,55.00 CAD,,in_stock
-gla_279,1010,10,300.00 CAD,235.00 CAD,in_stock
-gla_20224,1010,10,190.00 CAD,157.00 CAD,in_stock
-gla_1007,1010,10,250.00 CAD,230.00 CAD,in_stock
-gla_22617,1010,10,60.00 CAD,54.99 CAD,in_stock
-gla_20243,1010,10,10.00 CAD,,in_stock
-gla_990,1010,10,575.00 CAD,428.00 CAD,in_stock
-gla_246,1010,10,280.00 CAD,265.00 CAD,in_stock
-gla_1397,1010,10,85.00 CAD,,in_stock
-gla_17277,1010,10,150.00 CAD,,in_stock
-gla_459,1010,10,550.00 CAD,,in_stock
-gla_1032,1010,10,125.00 CAD,77.25 CAD,in_stock
-gla_17322,1010,10,360.00 CAD,297.00 CAD,in_stock
-gla_22702,1010,10,750.00 CAD,703.73 CAD,in_stock
-gla_479,1010,10,48.45 CAD,,in_stock
-gla_19014,1010,10,95.00 CAD,65.00 CAD,in_stock
-gla_22713,1010,10,100.00 CAD,65.00 CAD,in_stock
-gla_288,1010,10,94.05 CAD,,in_stock
-gla_17268,1010,10,90.00 CAD,,in_stock
-gla_1050,1010,10,10.00 CAD,,in_stock
-gla_21309,1010,10,45.00 CAD,,in_stock
-gla_18873,1010,10,173.31 CAD,115.54 CAD,in_stock
-gla_19006,1010,10,685.00 CAD,619.00 CAD,in_stock
-gla_324,1010,10,14.00 CAD,5.00 CAD,in_stock
-gla_229,1010,10,89.00 CAD,75.50 CAD,in_stock
-gla_283,1010,10,15.00 CAD,,in_stock
-gla_439,1010,10,50.00 CAD,,in_stock
-gla_1386,1010,10,35.00 CAD,,in_stock
-gla_22016,1010,10,85.54 CAD,,in_stock
-gla_230,1010,10,145.00 CAD,113.50 CAD,in_stock
-gla_20280,1010,10,1500.00 CAD,1050.00 CAD,in_stock
-gla_17530,1010,10,80.58 CAD,69.00 CAD,in_stock
-gla_22018,1010,10,150.65 CAD,,in_stock
-gla_1044,1010,10,35.00 CAD,,in_stock
-gla_21236,1010,10,200.00 CAD,,in_stock
-gla_21873,1010,10,245.00 CAD,,in_stock
-gla_1401,1010,10,85.00 CAD,,in_stock
-gla_22695,1010,10,25.00 CAD,,in_stock
-gla_382,1010,10,158.00 CAD,,in_stock
-gla_445,1010,10,5.50 CAD,5.00 CAD,in_stock
-gla_21238,1010,10,130.00 CAD,125.95 CAD,in_stock
-gla_20207,1010,10,100.00 CAD,73.00 CAD,in_stock
-gla_17275,1010,10,95.00 CAD,,in_stock
-gla_264,1010,10,87.50 CAD,51.25 CAD,in_stock
-gla_22703,1010,10,320.00 CAD,306.99 CAD,in_stock
-gla_1689,1010,10,145.50 CAD,84.00 CAD,in_stock
-gla_404,1010,10,29.00 CAD,,in_stock
-gla_465,1010,10,85.00 CAD,,in_stock
-gla_22022,1010,10,312.57 CAD,,in_stock
-gla_19315,1010,10,200.00 CAD,,in_stock
-gla_471,1010,10,120.00 CAD,,in_stock
-gla_1015,1010,10,69.67 CAD,58.00 CAD,in_stock
-gla_1252,1010,10,78.62 CAD,56.15 CAD,in_stock
-gla_21240,1010,10,200.00 CAD,,in_stock
-gla_21249,1010,10,200.00 CAD,,in_stock
-gla_334,1010,10,20.00 CAD,10.55 CAD,in_stock
-gla_17544,1010,10,7.00 CAD,,in_stock
-gla_20229,1010,10,255.00 CAD,214.00 CAD,in_stock
-gla_20202,1010,10,100.00 CAD,73.00 CAD,in_stock
-gla_543,1010,10,165.00 CAD,,in_stock
-gla_1072,1010,10,25.00 CAD,20.00 CAD,in_stock
-gla_483,1010,10,120.00 CAD,,in_stock
-gla_22034,1010,10,91.10 CAD,,in_stock
-gla_244,1010,10,290.00 CAD,264.80 CAD,in_stock
-gla_351,1010,10,25.00 CAD,16.00 CAD,in_stock
-gla_457,1010,10,133.50 CAD,,in_stock
-gla_1382,1010,10,75.00 CAD,,in_stock
-gla_1740,1010,10,95.27 CAD,,in_stock
-gla_463,1010,10,48.00 CAD,24.35 CAD,in_stock
-gla_1391,1010,10,45.00 CAD,,in_stock
-gla_254,1010,10,150.00 CAD,135.00 CAD,in_stock
-gla_19312,1010,10,250.00 CAD,162.00 CAD,in_stock
-gla_20237,1010,10,10.00 CAD,,in_stock
-gla_1052,1010,10,33.99 CAD,,in_stock
-gla_347,1010,10,98.59 CAD,79.00 CAD,in_stock
-gla_19253,1010,10,266.85 CAD,177.90 CAD,in_stock
-gla_984,1010,10,193.28 CAD,160.00 CAD,in_stock
-gla_241,1010,10,103.00 CAD,83.30 CAD,in_stock
-gla_21254,1010,10,200.00 CAD,,in_stock
-gla_389,1010,10,69.99 CAD,,in_stock
-gla_19256,1010,10,390.54 CAD,260.36 CAD,in_stock
-gla_1011,1010,10,418.75 CAD,350.00 CAD,in_stock
-gla_433,1010,10,88.17 CAD,,in_stock
-gla_996,1010,10,230.33 CAD,,in_stock
-gla_20276,1010,10,780.00 CAD,748.50 CAD,in_stock
-gla_16888,1010,10,895.00 CAD,886.50 CAD,in_stock
-gla_387,1010,10,325.00 CAD,150.00 CAD,in_stock
-gla_17335,1010,10,530.00 CAD,443.00 CAD,in_stock
-gla_407,1010,10,33.00 CAD,,in_stock
-gla_22694,1010,10,30.19 CAD,,in_stock
-gla_20393,1010,10,1500.00 CAD,1100.00 CAD,in_stock
-gla_22661,1010,10,136.50 CAD,110.00 CAD,in_stock
-gla_975,1010,10,75.27 CAD,38.75 CAD,in_stock
-gla_22692,1010,10,300.00 CAD,,in_stock
-gla_1067,1010,10,10.00 CAD,,in_stock
-gla_20239,1010,10,10.00 CAD,,in_stock
-gla_18875,1010,10,1412.43 CAD,941.62 CAD,in_stock
-gla_1056,1010,10,175.00 CAD,,in_stock
-gla_20477,1010,10,2744.00 CAD,2500.00 CAD,in_stock
-gla_22642,1010,10,300.00 CAD,165.59 CAD,in_stock
-gla_17266,1010,10,85.00 CAD,,in_stock
-gla_1009,1010,10,250.00 CAD,,in_stock
-gla_1733,1010,10,45.00 CAD,,in_stock
-gla_20252,1010,10,40.00 CAD,24.35 CAD,in_stock
-gla_22648,1010,10,85.00 CAD,80.26 CAD,in_stock
-gla_16950,1010,10,1985.00 CAD,1875.00 CAD,in_stock
-gla_17535,1010,10,9.00 CAD,5.50 CAD,in_stock
-gla_268,1010,10,403.00 CAD,275.00 CAD,in_stock
-gla_18866,1010,10,450.00 CAD,390.00 CAD,in_stock
-gla_986,1010,10,650.00 CAD,625.00 CAD,in_stock
-gla_1388,1010,10,45.00 CAD,,in_stock
-gla_22012,1010,10,78.45 CAD,,in_stock
-gla_285,1010,10,92.23 CAD,,in_stock
-gla_19630,1010,10,350.00 CAD,325.00 CAD,in_stock
-gla_1735,1010,10,45.00 CAD,,in_stock
-gla_18877,1010,10,650.80 CAD,520.50 CAD,in_stock
-gla_1070,1010,10,69.15 CAD,,in_stock
-gla_18333,1010,10,133.50 CAD,,in_stock
-gla_994,1010,10,212.50 CAD,,in_stock
-gla_22670,1010,10,117.60 CAD,,in_stock
-gla_1065,1010,10,10.00 CAD,,in_stock
-gla_328,1010,10,131.88 CAD,119.00 CAD,in_stock
-gla_1703,1010,10,52.00 CAD,37.00 CAD,in_stock
-gla_326,1010,10,20.00 CAD,15.00 CAD,in_stock
-gla_405,1010,10,25.00 CAD,,in_stock
-gla_19004,1010,10,2200.00 CAD,2031.00 CAD,in_stock
-gla_1034,1010,10,252.00 CAD,220.00 CAD,in_stock
-gla_1406,1010,10,120.00 CAD,,in_stock
-gla_17246,1010,10,30.00 CAD,,in_stock
-gla_22629,1010,10,110.00 CAD,99.99 CAD,in_stock
-gla_22032,1010,10,979.80 CAD,596.00 CAD,in_stock
-gla_392,1010,10,35.00 CAD,,in_stock
-gla_21246,1010,10,200.00 CAD,,in_stock
-gla_970,1010,10,80.58 CAD,77.99 CAD,in_stock
-gla_443,1010,10,109.76 CAD,,in_stock
-p4010acledsca,1010,10,250.00 CAD,125.00 CAD,in_stock
-gla_290,1010,10,102.00 CAD,67.00 CAD,in_stock
-gla_422,1010,10,10.00 CAD,,in_stock
-gla_252,1010,10,805.00 CAD,755.00 CAD,in_stock
-gla_1027,1010,10,198.50 CAD,143.75 CAD,in_stock
-gla_354,1010,10,57.00 CAD,45.00 CAD,in_stock
-gla_22613,1010,10,80.00 CAD,76.63 CAD,in_stock
-gla_420,1010,10,32.00 CAD,29.00 CAD,in_stock
-gla_222,1010,10,84.50 CAD,70.65 CAD,in_stock
-gla_330,1010,10,144.07 CAD,129.00 CAD,in_stock
-gla_20208,1010,10,153.00 CAD,133.00 CAD,in_stock
-gla_22014,1010,10,24.98 CAD,,in_stock
-gla_17897,1010,10,290.00 CAD,265.00 CAD,in_stock
-gla_398,1010,10,44.00 CAD,,in_stock
-gla_22028,1010,10,97.04 CAD,,in_stock
-gla_19005,1010,10,1400.00 CAD,1230.00 CAD,in_stock
-gla_22024,1010,10,497.05 CAD,,in_stock
-gla_235,1010,10,320.00 CAD,285.00 CAD,in_stock
-gla_19316,1010,10,200.00 CAD,,in_stock
-gla_22634,1010,10,300.00 CAD,119.00 CAD,in_stock
-gla_1008,1010,10,250.00 CAD,230.00 CAD,in_stock
-gla_385,1010,10,147.00 CAD,,in_stock
-gla_17255,1010,10,475.00 CAD,420.00 CAD,in_stock
-gla_22026,1010,10,780.00 CAD,693.00 CAD,in_stock
-gla_19313,1010,10,200.00 CAD,,in_stock
-gla_343,1010,10,59.00 CAD,52.80 CAD,in_stock
-gla_22686,1010,10,25.00 CAD,,in_stock
-gla_1038,1010,10,38.55 CAD,,in_stock
-gla_381,1010,10,75.00 CAD,,in_stock
-gla_250,1010,10,1400.00 CAD,1395.00 CAD,in_stock
-gla_22666,1010,10,170.00 CAD,140.00 CAD,in_stock
-gla_16890,1010,10,1700.00 CAD,1330.00 CAD,in_stock
-gla_17260,1010,10,500.00 CAD,450.00 CAD,in_stock
-gla_19009,1010,10,95.00 CAD,65.00 CAD,in_stock
-gla_22675,1010,10,300.00 CAD,,in_stock
-gla_312,1010,10,26.90 CAD,,in_stock
-gla_22704,1010,10,175.00 CAD,167.99 CAD,in_stock
-gla_22690,1010,10,41.67 CAD,,in_stock
-gla_1233,1010,10,31.45 CAD,,in_stock
-gla_394,1010,10,99.00 CAD,,in_stock
-gla_20209,1010,10,153.00 CAD,133.00 CAD,in_stock
-gla_22030,1010,10,786.35 CAD,479.00 CAD,in_stock
-gla_22646,1010,10,80.00 CAD,71.98 CAD,in_stock
-gla_22654,1010,10,80.00 CAD,76.09 CAD,in_stock
-gla_17273,1010,10,285.00 CAD,194.75 CAD,in_stock
-gla_233,1010,10,499.00 CAD,271.80 CAD,in_stock
-gla_1003,1010,10,250.00 CAD,230.00 CAD,in_stock
-gla_1031,1010,10,51.00 CAD,49.00 CAD,in_stock
-gla_260,1010,10,820.00 CAD,790.00 CAD,in_stock
-gla_22682,1010,10,35.00 CAD,32.68 CAD,in_stock
-gla_21247,1010,10,45.00 CAD,38.50 CAD,in_stock
-gla_17249,1010,10,185.00 CAD,126.40 CAD,in_stock
-gla_22659,1010,10,97.40 CAD,,in_stock
-gla_17717,1010,10,6.00 CAD,,in_stock
-gla_19002,1010,10,475.00 CAD,439.00 CAD,in_stock
+id,store_code,quantity,availability,pickup_method,pickup_sla,price,sale_price,sku_reference,product_name_reference,product_url_reference
+gla_17544,1010,10,in_stock,buy,same_day,7.00 CAD,,(no SKU),"""Fire Extinguisher Sign"" - 6"" x 9"" - Adhesive Vinyl Sign",https://teslafiresystems.com/product/fire-extinguisher-inside-6-x-9-adhesive-vinyl-sign/
+gla_332,1010,10,in_stock,buy,same_day,150.53 CAD,129.00 CAD,15PARAP-100CB,"1-1/2"" x 100' Single Jacket Fire Hose - Designed to be Clipped on a Swing Rack",https://teslafiresystems.com/product/1-1-2-x-100-fire-hose-designed-to-be-clipped-on-a-swing-rack/
+gla_328,1010,10,in_stock,buy,same_day,131.88 CAD,119.00 CAD,15PARAP-50CB,"1-1/2"" x 50' Single Jacket Fire Hose - Designed to be Clipped on a Swing Rack",https://teslafiresystems.com/product/paragon-single-jacket-rack-and-reel-fire-hose-1-1-2-x-50/
+gla_330,1010,10,in_stock,buy,same_day,144.07 CAD,129.00 CAD,15PARAP-75CB,"1-1/2"" x 75' Single Jacket Fire Hose - Designed to be Clipped on a Swing Rack",https://teslafiresystems.com/product/paragon-single-jacket-rack-and-reel-fire-hose-1-1-2-x-75/
+gla_20224,1010,10,in_stock,buy,2-day,190.00 CAD,157.00 CAD,EC-211,10lb Semi-Recessed Fire Extinguisher Cabinet – White with Glass Door & 1″ Trim,https://teslafiresystems.com/product/10lb-semi-recessed-fire-extinguisher-cabinet-white-with-glass-door-1%e2%80%b3-trim/
+gla_20207,1010,10,in_stock,buy,2-day,100.00 CAD,73.00 CAD,TFS-10510-R,10lb Surface Mounted Plastic Fire Extinguisher Cabinet - Red,https://teslafiresystems.com/product/red-10lb-plastic-cabinets/
+gla_20202,1010,10,in_stock,buy,2-day,100.00 CAD,73.00 CAD,TFS-10510-W,10lb Surface Mounted Plastic Fire Extinguisher Cabinet - White,https://teslafiresystems.com/product/10lb-surface-mounted-plastic-fire-extinguisher-cabinet-white/
+gla_1689,1010,10,in_stock,buy,same_day,145.50 CAD,84.00 CAD,C-999,10lb Surface Mounted Steel Fire Extinguisher Cabinet - White,https://teslafiresystems.com/product/fire-extinguisher-cabinet-10lb-surface-mounted-c-999/
+gla_1073,1010,10,in_stock,buy,same_day,5.00 CAD,,2S30,"2 STAGE ALARM PULL STATION LABEL - ""DO NOT USE ELEVATOR""",https://teslafiresystems.com/product/in-case-of-fire-single-stage-alarm-sign-w-elevator/
+gla_341,1010,10,in_stock,buy,2-day,59.00 CAD,52.80 CAD,PLUG-B-250CL-PL,"2.5"" Threaded Brass Plug",https://teslafiresystems.com/product/brass-cap/
+gla_1052,1010,10,in_stock,buy,same_day,33.99 CAD,,UBRK-1052,2.5lb Universal Quick Release Vehicle Bracket,https://teslafiresystems.com/product/2-5lb-fire-extinguisher-spring-clip-vehicle-bracket/
+gla_20229,1010,10,in_stock,buy,2-day,255.00 CAD,214.00 CAD,PC-411,"20 lb Dry Chemical / 2.5 Gallon Wet Chemical Fire Extinguisher Cabinet – Semi-Recessed, White with Acrylic Bubble Door",https://teslafiresystems.com/product/20-lb-fire-extinguisher-cabinet/
+gla_20208,1010,10,in_stock,buy,2-day,153.00 CAD,133.00 CAD,TFS-10520-R,20lb Surface Mounted Plastic Fire Extinguisher Cabinet - Red,https://teslafiresystems.com/product/red-20lb-plastic-cabinets/
+gla_20209,1010,10,in_stock,buy,2-day,153.00 CAD,133.00 CAD,TFS-10520-W,20lb Surface Mounted Plastic Fire Extinguisher Cabinet - White,https://teslafiresystems.com/product/20lb-surface-mounted-plastic-fire-extinguisher-cabinet-white/
+gla_20211,1010,10,in_stock,buy,same_day,155.00 CAD,113.00 CAD,C-104,20lb Surface Mounted Steel Fire Extinguisher Cabinet - White,https://teslafiresystems.com/product/20lb-surface-mounted-steel-fire-extinguisher-cabinet/
+gla_1054,1010,10,in_stock,buy,same_day,33.99 CAD,,5BRK-1054,5Lb Universal Quick Release Vehicle Bracket,https://teslafiresystems.com/product/5lb-fire-extinguisher-spring-clip-vehicle-bracket/
+gla_292,1010,10,in_stock,buy,same_day,185.00 CAD,150.00 CAD,TFS-102RS,"5lb Semi-Recessed Fire Extinguisher Cabinet - White with Glass Door & 1"" Trim",https://teslafiresystems.com/product/5lb-semi-recessed-fire-extinguisher-cabinet-white/
+gla_19014,1010,10,in_stock,buy,same_day,95.00 CAD,65.00 CAD,TFS-1055-R,5lb Surface Mounted Plastic Fire Extinguisher Cabinet - Red,https://teslafiresystems.com/product/red-5lb-plastic-cabinets/
+gla_19009,1010,10,in_stock,buy,same_day,95.00 CAD,65.00 CAD,TFS-1055-W,5lb Surface Mounted Plastic Fire Extinguisher Cabinet - White,https://teslafiresystems.com/product/white-5lb-plastic-cabinets/
+gla_290,1010,10,in_stock,buy,same_day,102.00 CAD,67.00 CAD,C-100,5lb Surface Mounted Steel Fire Extinguisher Cabinet - White,https://teslafiresystems.com/product/metal-extinguisher-cabinet/
+gla_19005,1010,10,in_stock,buy,next_day,1400.00 CAD,1230.00 CAD,CA13VB,ANSUL CLEANGUARD+ 13 lb Clean Agent Fire Extinguisher – 10-B:C – Model CA13VB,https://teslafiresystems.com/product/ansul-cleanguard-13-lb-clean-agent-fire-extinguisher-10-bc-model-ca13vb/
+gla_19004,1010,10,in_stock,buy,next_day,2200.00 CAD,2031.00 CAD,CA27VB,ANSUL CLEANGUARD+ 27.75 lb Clean Agent Fire Extinguisher – 20-B:C – Model CA27VB,https://teslafiresystems.com/product/ansul-cleanguard-27-75-lb-clean-agent-fire-extinguisher-20-bc-model-ca27vb/
+gla_19002,1010,10,in_stock,buy,same_day,475.00 CAD,439.00 CAD,CA03VB,ANSUL CLEANGUARD+ 3.5 lb Clean Agent Fire Extinguisher – 2-B:C – Model CA03VB,https://teslafiresystems.com/product/ansul-cleanguard-3-5-lb-clean-agent-fire-extinguisher-ca03vb/
+gla_19006,1010,10,in_stock,buy,same_day,685.00 CAD,619.00 CAD,CA07VB,ANSUL CLEANGUARD+ 7.5 lb Clean Agent Fire Extinguisher – 5-B:C – Model CA07VB,https://teslafiresystems.com/product/ansul-cleanguard-7-5-lb-clean-agent-fire-extinguisher-5-bc-model-ca07vb/
+gla_17541,1010,10,in_stock,buy,next_day,12.00 CAD,,A142,AUTOMATIC SPRINKLER VALVE CONTROL - Aluminum Sign,https://teslafiresystems.com/product/automatic-sprinkler-valve-control-aluminum-sign/
+gla_1044,1010,10,in_stock,buy,same_day,35.00 CAD,,AWM114,Aluminum 8X12 Double Sided FIRE Extinguisher Sign,https://teslafiresystems.com/product/aluminum-8x12-double-sided-fire-extinguisher-sign/
+gla_424,1010,10,in_stock,buy,same_day,23.01 CAD,,A109,"Aluminum Fire Extinguisher Sign - (4"" x 12"")",https://teslafiresystems.com/product/fire-extinguisher-sign-metal/
+gla_1233,1010,10,in_stock,buy,same_day,31.45 CAD,,NLRP109,"Aluminum Fire Extinguisher Sign - (4"" x 18"")",https://teslafiresystems.com/product/aluminum-fire-extinguisher-sign-4-x-18/
+gla_246,1010,10,in_stock,buy,same_day,280.00 CAD,265.00 CAD,322X,Amerex 322X | 5 lb CO₂ | Carbon Dioxide Fire Extinguisher with Wall Bracket | 5B:C,https://teslafiresystems.com/product/amerex-322x-5-lb-co2-fire-extinguisher-5bc/
+gla_248,1010,10,in_stock,buy,same_day,480.00 CAD,333.65 CAD,330X,Amerex 330X | 10 lb CO₂ | Carbon Dioxide Fire Extinguisher with Wall Bracket | 10B:C,https://teslafiresystems.com/product/amerex-330x-10-lb-co2-fire-extinguisher-10bc/
+gla_22030,1010,10,in_stock,buy,next_day,786.35 CAD,479.00 CAD,331,Amerex 331 | 15 lb CO₂ | Fire Extinguisher with Wall Bracket | 10B:C,https://teslafiresystems.com/product/amerex-331-15-lb-co2-fire-extinguisher/
+gla_22032,1010,10,in_stock,buy,next_day,979.80 CAD,596.00 CAD,332,Amerex 332 | 20 lb CO₂ | Fire Extinguisher with Wall Bracket | 10B:C,https://teslafiresystems.com/product/amerex-332-20-lb-co2-fire-extinguisher/
+gla_254,1010,10,in_stock,buy,same_day,150.00 CAD,135.00 CAD,376,Amerex 376 Purple K | 1 lb BC | Dry Chemical Fire Extinguisher with Vehicle Bracket | 5B:C,https://teslafiresystems.com/product/amerex-376-1-lb-purple-k-fire-extinguisher-5bc/
+gla_22018,1010,10,in_stock,buy,same_day,150.65 CAD,,376T,Amerex 376T Purple K | 1 lb BC | Dry Chemical Fire Extinguisher with Vehicle Bracket | 2B:C,https://teslafiresystems.com/product/amerex-376t-purple-k-1-lb-bc-dry-chemical-fire-extinguisher-with-vehicle-bracket-2bc/
+gla_16890,1010,10,in_stock,buy,same_day,1700.00 CAD,1330.00 CAD,397X,Amerex 397X | 11 lb Halotron I | Clean Agent Fire Extinguisher with Wall Bracket | 10B:C,https://teslafiresystems.com/product/amerex-397x-11-lb-halotron-i-fire-extinguisher-faa-approved/
+gla_16950,1010,10,in_stock,buy,next_day,1985.00 CAD,1875.00 CAD,398X,Amerex 398X | 15.5 lb Halotron I | Clean Agent Fire Extinguisher with Wall Bracket | 10B:C,https://teslafiresystems.com/product/amerex-398x-15-5-lb-halotron-i-fire-extinguisher-faa-approved/
+gla_22024,1010,10,in_stock,buy,next_day,497.05 CAD,,415,Amerex 415 Purple K | 20 lb BC Brass Valve | Dry Chemical Fire Extinguisher with Wall Bracket | 120B:C,https://teslafiresystems.com/product/amerex-415-20-lb-brass-valve-purple-k-fire-extinguisher/
+gla_20280,1010,10,in_stock,buy,next_day,1500.00 CAD,1050.00 CAD,547,Amerex 547 HT Series | 3.75 lb Halotron BrX | Clean Agent Fire Extinguisher with Nozzle | 5B:C,https://teslafiresystems.com/product/amerex-547-ht-series-3-75-lb-halotron-brx-clean-agent-fire-extinguisher-5bc/
+gla_20393,1010,10,in_stock,buy,next_day,1500.00 CAD,1100.00 CAD,549,Amerex 549 HT Series | 3.75 lb Halotron BrX | Clean Agent Fire Extinguisher with Hose | 5B:C,https://teslafiresystems.com/product/amerex-549-ht-series-3-75-lb-halotron-brx-clean-agent-fire-extinguisher-5bc/
+gla_17262,1010,10,in_stock,buy,next_day,2775.00 CAD,2000.00 CAD,551,Amerex 551 HT Series | 12.5 lb Halotron BrX | Clean Agent Fire Extinguisher with Hose | 2A:10BC,https://teslafiresystems.com/product/amerex-551-12-5-lbs-halotron-brx-clean-agent/
+gla_22026,1010,10,in_stock,buy,next_day,780.00 CAD,693.00 CAD,693X,Amerex 693X Purple K | 30 lb Brass Valve | Dry Chemical Fire Extinguisher with Wall Bracket | 120B:C,https://teslafiresystems.com/product/amerex-693x-30-lb-brass-valve-purple-k-fire-extinguisher/
+gla_252,1010,10,in_stock,buy,next_day,805.00 CAD,755.00 CAD,715x,Amerex 715X Z-Series | 30 lb ABC | Dry Chemical Fire Extinguisher with Wall Bracket | 20A 120B:C,https://teslafiresystems.com/product/amerex-715x-30-lb-abc-z-series-fire-extinguisher-20a-120bc/
+gla_22012,1010,10,in_stock,buy,same_day,78.45 CAD,,807,Amerex 807 | 5lb Heavy Duty Vehicle Bracket,https://teslafiresystems.com/product/amerex-heavy-duty-vehicle-bracket-4-1-4%e2%80%b3-cylinder-807/
+gla_22016,1010,10,in_stock,buy,same_day,85.54 CAD,,809,Amerex 809 | 10Lb Heavy Duty Vehicle Bracket,https://teslafiresystems.com/product/amerex-heavy-duty-vehicle-bracket-5-cylinder-809/
+gla_22028,1010,10,in_stock,buy,same_day,97.04 CAD,,810,Amerex 810 | 20 Lb Heavy Duty Vehicle Bracket,https://teslafiresystems.com/product/amerex-heavy-duty-vehicle-bracket-7-cylinder-810-2/
+gla_22034,1010,10,in_stock,buy,next_day,91.10 CAD,,812,Amerex 812 | 30 Lb Heavy-Duty Vehicle Bracket | 30 Lb 6″ Cylinder,https://teslafiresystems.com/product/amerex-812-heavy-duty-vehicle-bracket-6%e2%80%b3-cylinder/
+gla_22014,1010,10,in_stock,buy,same_day,24.98 CAD,,818,Amerex 818 | 5lb Wrap Around Vehicle Bracket,https://teslafiresystems.com/product/amerex-vehicle-bracket-5lb-abc-818/
+gla_990,1010,10,in_stock,buy,same_day,575.00 CAD,428.00 CAD,A384T,Amerex A384T | 1.4 lb Halotron I | Clean Agent Fire Extinguisher with Vehicle Bracket | 2B:C,https://teslafiresystems.com/product/amerex-a384t-1-4-lb-halotron-i-fire-extinguisher-2bc/
+gla_279,1010,10,in_stock,buy,same_day,300.00 CAD,235.00 CAD,A411x,Amerex A411X | 20 lb ABC | Dry Chemical Fire Extinguisher with Wall Bracket | 10A 120B:C,https://teslafiresystems.com/product/amerex-a411x-20-lb-abc-fire-extinguisher-10a-120bc/
+gla_20276,1010,10,in_stock,buy,next_day,780.00 CAD,748.50 CAD,A537TS,Amerex A537TS HT Series | 1.79 lb Halotron BrX | Clean Agent Fire Extinguisher with Nozzle | 2B:C,https://teslafiresystems.com/product/amerex-a537ts-ht-series-1-79-lb-halotron-brx-clean-agent-fire-extinguisher-2bc/
+gla_986,1010,10,in_stock,buy,same_day,650.00 CAD,625.00 CAD,B385TSX,Amerex B385TSX | 2.5 lb Halotron I | Clean Agent Fire Extinguisher with Vehicle Bracket | 2B:C,https://teslafiresystems.com/product/amerex-b385tsx-2-5-lb-halotron-1-fire-extinguisher-2bc/
+gla_260,1010,10,in_stock,buy,same_day,820.00 CAD,790.00 CAD,B386TX,Amerex B386TX | 5 lb Halotron1 | Clean Agent Fire Extinguisher with Vehicle Bracket | 5B:C,https://teslafiresystems.com/product/amerex-b386tx-5-lb-halotron-1-fire-extinguisher-5bc/
+gla_16888,1010,10,in_stock,buy,next_day,895.00 CAD,886.50 CAD,B394TS,Amerex B394TS | 5.5 lb Halotron I | Clean Agent Fire Extinguisher with Aircraft Bracket | 5B:C,https://teslafiresystems.com/product/amerex-b394ts-5-5-lb-halotron-i-fire-extinguisher-faa-approved/
+gla_233,1010,10,in_stock,buy,same_day,499.00 CAD,271.80 CAD,B402TXC,Amerex B402TXC | 5 lb ABC | Dry Chemical Fire Extinguisher with Vehicle Bracket | 3A 40B:C - Chrome,https://teslafiresystems.com/product/amerex-b402txc-5-lb-chrome-abc-fire-extinguisher-3a-40bc/
+gla_241,1010,10,in_stock,buy,same_day,103.00 CAD,83.30 CAD,B402X,Amerex B402X | 5 lb ABC | Dry Chemical Fire Extinguisher with Wall Bracket | 3A 40B:C,https://teslafiresystems.com/product/amerex-b402x-5-lb-abc-fire-extinguisher-3a-40bc/
+gla_22020,1010,10,in_stock,buy,same_day,126.75 CAD,,B410T,Amerex B410T Purple K | 2.5 lb BC | Dry Chemical Fire Extinguisher with Vehicle Bracket | 10B:C,https://teslafiresystems.com/product/amerex-b410t-2-5-lb-purple-k-fire-extinguisher/
+gla_222,1010,10,in_stock,buy,same_day,84.50 CAD,70.65 CAD,B417TX,Amerex B417TX | 2.5 lb ABC | Dry Chemical Fire Extinguisher with Vehicle Bracket | 1A 10B:C,https://teslafiresystems.com/product/amerex-b417tx-2-5-lb-abc-dry-chemical-fire-extinguisher/
+gla_244,1010,10,in_stock,buy,same_day,290.00 CAD,264.80 CAD,B417TXC,Amerex B417TXC | 2.5 lb ABC | Dry Chemical Fire Extinguisher with Vehicle Bracket | 1A 10B:C - Chrome,https://teslafiresystems.com/product/amerex-b417txc-2-5-lb-chrome-abc-fire-extinguisher-1a-10bc/
+gla_230,1010,10,in_stock,buy,same_day,145.00 CAD,113.50 CAD,B456X,Amerex B456X | 10 lb ABC | Dry Chemical Fire Extinguisher with Wall Bracket | 6A 80B:C,https://teslafiresystems.com/product/amerex-b456x-10-lb-abc-fire-extinguisher-6a-80bc/
+gla_22022,1010,10,in_stock,buy,same_day,312.57 CAD,,B460,Amerex B460 Purple K | 10 lb BC Brass Valve | Dry Chemical Fire Extinguisher with Wall Bracket | 80B:C,https://teslafiresystems.com/product/amerex-b460-10-lb-brass-valve-purple-k-fire-extinguisher/
+gla_984,1010,10,in_stock,buy,same_day,193.28 CAD,160.00 CAD,B479TX,Amerex B479T Purple K | 5 lb BC | Dry Chemical Fire Extinguisher with Vehicle Bracket | 40B:C,https://teslafiresystems.com/product/amerex-b479t-5-lb-purple-k-fire-extinguisher-40bc/
+gla_262,1010,10,in_stock,buy,same_day,100.00 CAD,95.00 CAD,B500TX,Amerex B500TX | 5 lb ABC | Dry Chemical Fire Extinguisher with Vehicle Bracket | 3A 10B:C,https://teslafiresystems.com/product/amerex-b500tx-5-lb-abc-fire-extinguisher-with-vehicle-bracket-3a-10bc/
+gla_1036,1010,10,in_stock,buy,same_day,170.00 CAD,141.00 CAD,B500X2,Amerex B500X | 5 lb ABC | Dry Chemical Fire Extinguisher with Wall Bracket | 2 Pack - 3A 10B:C,https://teslafiresystems.com/product/amerex-b500x-2-pack-abc-fire-extinguishers-3a-10bc/
+gla_1034,1010,10,in_stock,buy,same_day,252.00 CAD,220.00 CAD,B500X3,Amerex B500X | 5 lb ABC | Dry Chemical Fire Extinguisher with Wall Bracket | 3 Pack - 3A 10B:C,https://teslafiresystems.com/product/amerex-b500x-3-pack-abc-fire-extinguishers-3a-10bc/
+gla_229,1010,10,in_stock,buy,same_day,89.00 CAD,75.50 CAD,B500X,Amerex B500X | 5 lb ABC | Dry Chemical Fire Extinguisher with Wall Bracket | 3A 10B:C,https://teslafiresystems.com/product/amerex-b500x-5-lb-abc-fire-extinguisher-3a-10bc/
+gla_17322,1010,10,in_stock,buy,same_day,360.00 CAD,297.00 CAD,B500X4,Amerex B500X | 5 lb ABC | Dry Chemical Fire Extinguisher with Wall Bracket | 4 Pack - 3A 10B:C,https://teslafiresystems.com/product/amerex-b500x-4-pack-abc-fire-extinguishers-3a-10bc/
+gla_17332,1010,10,in_stock,buy,same_day,440.00 CAD,372.50 CAD,B500X5,Amerex B500X | 5 lb ABC | Dry Chemical Fire Extinguisher with Wall Bracket | 5 Pack - 3A 10B:C,https://teslafiresystems.com/product/amerex-b500x-5-pack-abc-fire-extinguishers-3a-10bc/
+gla_17335,1010,10,in_stock,buy,same_day,530.00 CAD,443.00 CAD,B500X6,Amerex B500X | 5 lb ABC | Dry Chemical Fire Extinguisher with Wall Bracket | 6 Pack - 3A 10B:C,https://teslafiresystems.com/product/amerex-b500x-6-pack-abc-fire-extinguishers-3a-10bc/
+gla_250,1010,10,in_stock,buy,next_day,1400.00 CAD,1395.00 CAD,B570x,Amerex B570X | 30 lb Class D | Sodium Chloride Fire Extinguisher with Wall Bracket,https://teslafiresystems.com/product/amerex-b570x-30-lb-class-d-fire-extinguisher/
+gla_235,1010,10,in_stock,buy,same_day,320.00 CAD,285.00 CAD,C260X,Amerex C260X | 6 Litre Type K | Wet Chemical Fire Extinguisher with Wall Bracket & Signage | 2A K,https://teslafiresystems.com/product/amerex-c260x-6-litre-type-k-fire-extinguisher-2a-k/
+gla_17255,1010,10,in_stock,buy,next_day,475.00 CAD,420.00 CAD,C270,Amerex C270 | 6 Litre (1.75 Gal) | Deionized Water Mist Fire Extinguisher with Non-Metallic Wall Bracket| 2A:C,https://teslafiresystems.com/product/amerex-c270-6-litre-water-mist-fire-extinguisher-2ac/
+gla_17260,1010,10,in_stock,buy,next_day,500.00 CAD,450.00 CAD,C272,Amerex C272 | 9 Litre (2.5 Gal) | Deionized Water Mist Fire Extinguisher with Non-Metallic Wall Bracket | 2A:C,https://teslafiresystems.com/product/amerex-c272-9-litre-water-mist-fire-extinguisher-2ac/
+gla_20477,1010,10,in_stock,buy,next_day,2744.00 CAD,2500.00 CAD,C571x,Amerex C571x | 30 lb Class D | Copper Fire Extinguisher with Wall Bracket | For Lithium Metal Fires,https://teslafiresystems.com/product/amerex-c571-30-lb-class-d-copper-fire-extinguisher/
+gla_288,1010,10,in_stock,buy,same_day,94.05 CAD,,5-809-288,"Amerex Heavy Duty Vehicle Bracket - 5"" Cylinder (809)",https://teslafiresystems.com/product/amerex-809-heavy-duty-steel-bracket-for-10lb-fire-extinguisher/
+gla_285,1010,10,in_stock,buy,same_day,92.23 CAD,,4-1-4-807-285,Amerex Heavy Duty Vehicle Bracket – 4 1/4″ Cylinder (807),https://teslafiresystems.com/product/amerex-807-heavy-duty-steel-bracket-for-5lb-fire-extinguisher/
+gla_1740,1010,10,in_stock,buy,same_day,95.27 CAD,,12933-1740,"Amerex Heavy Duty Vehicle Bracket – 7"" Cylinder (810)",https://teslafiresystems.com/product/amerex-heavy-duty-vehicle-bracket-7-cylinder-810/
+gla_283,1010,10,in_stock,buy,same_day,15.00 CAD,,2.5-817-283,Amerex Vehicle Bracket - 2.5lb ABC (817),https://teslafiresystems.com/product/2-5lb-fire-extinguisher-vehicle-bracket-amerex-817/
+gla_281,1010,10,in_stock,buy,same_day,25.00 CAD,,5-818-281,Amerex Vehicle Bracket - 5lb ABC (818),https://teslafiresystems.com/product/5lb-fire-extinguisher-vehicle-bracket-amerex-818/
+gla_1050,1010,10,in_stock,buy,same_day,10.00 CAD,,00456-P-1050,Amerex Wall Bracket - 10lb ABC,https://teslafiresystems.com/product/fire-extinguisher-bracket-wall-mount-hanger-universal-for-10-to-15-lb-extinguisher-with-screws-and-washers/
+gla_1064,1010,10,in_stock,buy,same_day,10.00 CAD,,01521-1064,Amerex Wall Bracket - 2.5lb / 5lb ABC,https://teslafiresystems.com/product/universal-fire-extinguisher-wall-hook-mount-bracket-hanger-for-5-lb-extinguisher-free-screw-washer-included/
+gla_1065,1010,10,in_stock,buy,same_day,10.00 CAD,,01521-P001-1065,Amerex Wall Bracket - 2.5lb/5lb ABC,https://teslafiresystems.com/product/fork-style-wall-mount-bracket-for-2-5-5-lb-fire-extinguisher/
+gla_1067,1010,10,in_stock,buy,same_day,10.00 CAD,,00577-P001-1067,Amerex Wall Bracket - 20lb ABC,https://teslafiresystems.com/product/universal-fire-extinguisher-wall-hook-mount-bracket-hanger-for-15-to-20-lb-extinguisher/
+gla_275,1010,10,in_stock,buy,same_day,10.00 CAD,,6L-K-275,Amerex Wall Bracket - 6L K Class,https://teslafiresystems.com/product/type-k-fire-extinguisher-wall-bracket/
+gla_543,1010,10,in_stock,buy,same_day,165.00 CAD,,STI1100,Audible Pull Station Cover - STI1100,https://teslafiresystems.com/product/pullstation-audible-cover/
+gla_21244,1010,10,in_stock,buy,next_day,76.00 CAD,73.00 CAD,SC6W10A,BRK SC6W10A | Hardwired Ionization Smoke Alarm | [[10-Year Battery Backup]],https://teslafiresystems.com/product/brk-sc6w10a-ac-hardwired-smoke-alarm/
+gla_21236,1010,10,in_stock,buy,next_day,200.00 CAD,,1046721,"BRK SM100V-AC Hardwire Smoke Alarm with Battery Backup, Voice & Location Alerts",https://teslafiresystems.com/product/brk-sm100v-ac-hardwire-smoke-alarm-with-battery-backup-voice-location-alerts/
+gla_21238,1010,10,in_stock,buy,next_day,130.00 CAD,125.95 CAD,SM110LEDA-AC,BRK SM110LEDA-AC Hardwire Smoke Alarm with LED Strobe & [[10-Year Battery Backup]],https://teslafiresystems.com/product/brk-sm110led-ac-hardwire-smoke-alarm-with-led-strobe-10-year-battery-backup/
+gla_21237,1010,10,in_stock,buy,next_day,200.00 CAD,,1048322,"BRK SM110V-AC Hardwire Smoke Alarm with 10-Year Battery Backup, Voice & Location Alerts",https://teslafiresystems.com/product/brk-sm110v-ac-hardwire-smoke-alarm-with-10-year-battery-backup-voice-location-alerts/
+gla_21246,1010,10,in_stock,buy,next_day,200.00 CAD,,1046728,BRK SM200 Battery Operated Smoke Alarm,https://teslafiresystems.com/product/brk-sm200-battery-operated-smoke-alarm/
+gla_21249,1010,10,in_stock,buy,next_day,200.00 CAD,,1046757,BRK SM210 Series 10-Year Sealed Battery Smoke Alarm with Voice - Slim Profile,https://teslafiresystems.com/product/brk-sm210-series-10-year-sealed-battery-smoke-alarm-with-voice-slim-profile/
+gla_21254,1010,10,in_stock,buy,next_day,200.00 CAD,,1046774,BRK SM500V Wireless Interconnect Battery-Operated Smoke Alarm with Voice & Location Alerts,https://teslafiresystems.com/product/brk-sm500v-wireless-interconnect-battery-operated-smoke-alarm-with-voice-location-alerts/
+gla_21251,1010,10,in_stock,buy,next_day,40.00 CAD,35.50 CAD,SM601A,BRK SM601A Battery Operated Smoke Alarm,https://teslafiresystems.com/product/brk-smi100-battery-operated-smoke-alarm/
+gla_21247,1010,10,in_stock,buy,next_day,45.00 CAD,38.50 CAD,SM610A,BRK SM610A Series [[10-Year Sealed Battery]] Smoke Alarm - Slim Profile,https://teslafiresystems.com/product/brk-sm210-series-10-year-sealed-battery-smoke-alarm-slim-profile/
+gla_21240,1010,10,in_stock,buy,next_day,200.00 CAD,,1046836,BRK SMI100-AC Hardwire Smoke Alarm with Battery Backup,https://teslafiresystems.com/product/brk-smi100-ac-hardwire-smoke-alarm-with-battery-backup/
+gla_343,1010,10,in_stock,buy,same_day,59.00 CAD,52.80 CAD,(no SKU),Brass Cap,https://teslafiresystems.com/product/brass-cap-2/
+gla_18873,1010,10,in_stock,buy,same_day,173.31 CAD,115.54 CAD,(no SKU),Clear Fire Retardant - 1 Quart Spray Bottle,https://teslafiresystems.com/product/clear-fire-retardant-1-quart-spray-bottle/
+gla_385,1010,10,in_stock,buy,next_day,147.00 CAD,,SL-E6-36,Combination Exit LED Sign / Emergency Lighting,https://teslafiresystems.com/product/combination-exit-led-sign-emergency-lighting/
+gla_19316,1010,10,in_stock,buy,next_day,200.00 CAD,,(no SKU),Compact Wrench for Storz Fire Hose Coupling - 1″ to 3″,https://teslafiresystems.com/product/compact-wrench-for-storz-fire-hose-coupling-1%e2%80%b3-to-3%e2%80%b3/
+gla_389,1010,10,in_stock,buy,same_day,69.99 CAD,,CL-R2-RL,Double LED Emergency Light Remote Head - 6-24V5W,https://teslafiresystems.com/product/double-emergency-remote/
+gla_22668,1010,10,in_stock,buy,next_day,120.00 CAD,85.00 CAD,(no SKU),EL-100SR STEEL LED EMERGENCY EXIT SIGN,https://teslafiresystems.com/product/el-100sr-steel-led-emergency-exit-sign/
+gla_22670,1010,10,in_stock,buy,next_day,117.60 CAD,,(no SKU),EL-180-18RCS STEEL LED Emergency Exit Sign Combo (REMOTE CAPABLE),https://teslafiresystems.com/product/el-180-18rcs-steel-led-emergency-exit-sign-combo-remote-capable/
+gla_22713,1010,10,in_stock,buy,next_day,100.00 CAD,65.00 CAD,(no SKU),EL-7006-RC TWIN SPOT LED EMERGENCY LIGHT – WITH REMOTE CAPABILITY,https://teslafiresystems.com/product/el-7006-rc-twin-spot-led-emergency-light-with-remote-capability/
+gla_22678,1010,10,in_stock,buy,next_day,55.10 CAD,,(no SKU),EL-7007RX/GX LED EMERGENCY EXIT SIGN,https://teslafiresystems.com/product/el-7007rx-gx-led-emergency-exit-sign/
+gla_22692,1010,10,in_stock,buy,next_day,300.00 CAD,,(no SKU),EL-7030B UNIVERSAL 2 X 1.5W LED EMERGENCY DUAL REMOTE HEAD (3.6-24V),https://teslafiresystems.com/product/el-7030b-universal-2-x-1-5w-led-emergency-dual-remote-head-3-6-24v/
+gla_22617,1010,10,in_stock,buy,next_day,60.00 CAD,54.99 CAD,(no SKU),ELRM-100S Steel Running Man sign,https://teslafiresystems.com/product/elrm-100s-steel-running-man-sign/
+gla_483,1010,10,in_stock,buy,same_day,120.00 CAD,,K-270-A-DPO-483,Edwards Pullstation - 120VAC,https://teslafiresystems.com/product/edwards-pullstation-120v/
+gla_481,1010,10,in_stock,buy,same_day,85.00 CAD,,-481,Edwards Pullstation - 24VDC,https://teslafiresystems.com/product/edwards-pullstation/
+gla_22666,1010,10,in_stock,buy,next_day,170.00 CAD,140.00 CAD,(no SKU),El-100wp Compact LED Wet Location Exit Sign,https://teslafiresystems.com/product/el-100wp-compact-led-wet-location-exit-sign/
+gla_22712,1010,10,in_stock,buy,next_day,50.00 CAD,47.99 CAD,(no SKU),El-7006 Twin Spot LED Emergency Light,https://teslafiresystems.com/product/el-7006-twin-spot-led-emergency-light/
+gla_22673,1010,10,in_stock,buy,next_day,42.13 CAD,,(no SKU),El-7007gx-180 LED Emergency Exit Sign,https://teslafiresystems.com/product/el-7007gx-180-led-emergency-exit-sign/
+gla_22675,1010,10,in_stock,buy,next_day,300.00 CAD,,(no SKU),El-7007rx-180 LED Emergency Exit Sign,https://teslafiresystems.com/product/el-7007rx-180-led-emergency-exit-sign/
+gla_22659,1010,10,in_stock,buy,next_day,97.40 CAD,,(no SKU),El-7007rx-nyc LED Emergency Exit Sign,https://teslafiresystems.com/product/el-7007rx-nyc-led-emergency-exit-sign/
+gla_22613,1010,10,in_stock,buy,next_day,80.00 CAD,76.63 CAD,(no SKU),El-7008ma Edge-lit LED Running Man Sign – Aluminum,https://teslafiresystems.com/product/el-7008ma-edge-lit-led-running-man-sign-aluminum/
+gla_22664,1010,10,in_stock,buy,next_day,80.00 CAD,76.09 CAD,(no SKU),El-7008ra Aluminum LED Edge-lit Exit Sign,https://teslafiresystems.com/product/el-7008ra-aluminum-led-edge-lit-exit-sign/
+gla_22654,1010,10,in_stock,buy,next_day,80.00 CAD,76.09 CAD,(no SKU),El-7008ra-nyc Aluminum Edge-lit LED Exit Sign,https://teslafiresystems.com/product/el-7008ra-nyc-aluminum-edge-lit-led-exit-sign/
+gla_22714,1010,10,in_stock,buy,next_day,50.00 CAD,47.23 CAD,(no SKU),El-7012 Compact Twin Spot LED Emergency Light,https://teslafiresystems.com/product/el-7012-compact-twin-spot-led-emergency-light/
+gla_22661,1010,10,in_stock,buy,next_day,136.50 CAD,110.00 CAD,(no SKU),El-7027br LED Emergency Exit Sign Combo With Adjustable Heads,https://teslafiresystems.com/product/el-7027br-led-emergency-exit-sign-combo-with-adjustable-heads/
+gla_22657,1010,10,in_stock,buy,next_day,74.12 CAD,,(no SKU),El-7027br-nyc LED Emergency Exit Sign Combo With Adjustable Heads,https://teslafiresystems.com/product/el-7027br-nyc-led-emergency-exit-sign-combo-with-adjustable-heads/
+gla_22686,1010,10,in_stock,buy,next_day,25.00 CAD,,(no SKU),El-7030a Universal 1.5w LED Emergency Remote Head (3.6-24v),https://teslafiresystems.com/product/el-7030a-universal-1-5w-led-emergency-remote-head-3-6-24v/
+gla_22688,1010,10,in_stock,buy,next_day,21.75 CAD,,(no SKU),El-7030a5 Universal Single 5w LED Remote Head (3.6-24v),https://teslafiresystems.com/product/el-7030a5-universal-single-5w-led-remote-head-3-6-24v/
+gla_22682,1010,10,in_stock,buy,next_day,35.00 CAD,32.68 CAD,(no SKU),El-7030awp Weatherproof Single LED Remote Head (Universal Voltage),https://teslafiresystems.com/product/el-7030awp-weatherproof-single-led-remote-head-universal-voltage/
+gla_22694,1010,10,in_stock,buy,next_day,30.19 CAD,,(no SKU),El-7030b Universal 2 X 1.5w LED Emergency Dual Remote Head (3.6-24v),https://teslafiresystems.com/product/el-7030b-universal-2-x-1-5w-led-emergency-dual-remote-head-3-6-24v-2/
+gla_22695,1010,10,in_stock,buy,next_day,25.00 CAD,,(no SKU),El-7030b Universal 2 X 5w LED Emergency Dual Remote Head (3.6-24v),https://teslafiresystems.com/product/el-7030b-universal-2-x-5w-led-emergency-dual-remote-head-3-6-24v/
+gla_22690,1010,10,in_stock,buy,next_day,41.67 CAD,,(no SKU),El-7030bwp Weatherproof Double LED Remote Head (Universal Voltage),https://teslafiresystems.com/product/el-7030bwp-weatherproof-double-led-remote-head-universal-voltage/
+gla_22705,1010,10,in_stock,buy,next_day,110.00 CAD,99.00 CAD,(no SKU),El-7061s Emergency Battery Backup Unit,https://teslafiresystems.com/product/el-7061s-emergency-battery-backup-unit/
+gla_22704,1010,10,in_stock,buy,next_day,175.00 CAD,167.99 CAD,(no SKU),"El-7062s5 Emergency Battery Backup Unit (95w, Remote Capable)",https://teslafiresystems.com/product/el-7062s5-emergency-battery-backup-unit-95w-remote-capable/
+gla_22703,1010,10,in_stock,buy,next_day,320.00 CAD,306.99 CAD,(no SKU),"El-7064s5 Emergency Battery Backup Unit (275w, Remote Capable)",https://teslafiresystems.com/product/el-7064s5-emergency-battery-backup-unit-275w-remote-capable/
+gla_22702,1010,10,in_stock,buy,next_day,750.00 CAD,703.73 CAD,(no SKU),"El-7066s Emergency LED Battery Backup Unit (720w, Remote Capable)",https://teslafiresystems.com/product/el-7066s-emergency-led-battery-backup-unit-720w-remote-capable/
+gla_22646,1010,10,in_stock,buy,next_day,80.00 CAD,71.98 CAD,(no SKU),Elrm-100 LED Running Man Sign,https://teslafiresystems.com/product/elrm-100-led-running-man-sign/
+gla_22642,1010,10,in_stock,buy,next_day,300.00 CAD,165.59 CAD,(no SKU),Elrm-100wp Compact LED Wet Location Running Man Sign,https://teslafiresystems.com/product/elrm-100wp-compact-led-wet-location-running-man-sign/
+gla_22634,1010,10,in_stock,buy,next_day,300.00 CAD,119.00 CAD,(no SKU),Elrm-180 LED Running Man Combo,https://teslafiresystems.com/product/elrm-180-led-running-man-combo/
+gla_22629,1010,10,in_stock,buy,next_day,110.00 CAD,99.99 CAD,(no SKU),Elrm-180-18rcs LED Steel Running Man Sign With Adjustable Twin Spot LED Lights (Remote Capable),https://teslafiresystems.com/product/elrm-180-18rcs-led-steel-running-man-sign-with-adjustable-twin-spot-led-lights-remote-capable/
+22648,1010,10,in_stock,buy,next_day,85.00 CAD,80.26 CAD,(no SKU),Elrm-180-2rc LED Running Man Sign With Adjustable Twin Spot LED Lights (Remote Capable),https://teslafiresystems.com/product/elrm-180-2rc-led-running-man-sign-with-adjustable-twin-spot-led-lights-remote-capable/
+gla_17717,1010,10,in_stock,buy,next_day,6.00 CAD,,(no SKU),Emergency Exit – Unlocked by Fire Alarm | Vinyl Adhesive Safety Label,https://teslafiresystems.com/product/emergency-exit-unlocked-by-fire-alarm-vinyl-adhesive-safety-label/
+gla_18877,1010,10,in_stock,buy,next_day,650.80 CAD,520.50 CAD,(no SKU),Emergency Fire Blanket | For Fire Suppression & Burn Victim Protection,https://teslafiresystems.com/product/emergency-fire-blanket-for-fire-suppression-burn-victim-protection/
+gla_20243,1010,10,in_stock,buy,next_day,10.00 CAD,,(no SKU),Emergency Fire Door Alarm Will Sound If Opened Sign | Exit Door Warning Sign,https://teslafiresystems.com/product/emergency-fire-door-alarm-will-sound-if-opened-sign-exit-door-warning-sign/
+gla_400,1010,10,in_stock,buy,same_day,55.00 CAD,,RLSS-12120,Emergency Light Battery 12V12AH,https://teslafiresystems.com/product/emergency-light-replacement-battery-12v-12ah/
+gla_407,1010,10,in_stock,buy,same_day,33.00 CAD,,RLSS-B6120,Emergency Light Battery 6V12AH,https://teslafiresystems.com/product/6v-12ah-emergency-light-battery/
+gla_405,1010,10,in_stock,buy,same_day,25.00 CAD,,RLSS-B650,Emergency Light Battery 6V5AH,https://teslafiresystems.com/product/emergency-light-replacement-battery-6v-4ah/
+gla_404,1010,10,in_stock,buy,same_day,29.00 CAD,,RLSS-B672,Emergency Light Battery 6V7AH,https://teslafiresystems.com/product/emergency-light-replacement-battery-6v-7-ah/
+gla_398,1010,10,in_stock,buy,next_day,44.00 CAD,,STI-9641,Emergency Light Guard,https://teslafiresystems.com/product/emergency-light-guard/
+gla_394,1010,10,in_stock,buy,next_day,99.00 CAD,,EL-7012,Emergency Light Pack 36 Watt Output,https://teslafiresystems.com/product/emergency-light-pack-36-watt-output/
+gla_382,1010,10,in_stock,buy,next_day,158.00 CAD,,NV-6-36,Emergency Lighting Unit 36 Watt Output,https://teslafiresystems.com/product/emergency-lighting-unit-36-watt-output/
+gla_396,1010,10,in_stock,buy,next_day,41.00 CAD,,STI-9742,Exit Light Guard,https://teslafiresystems.com/product/exit-light-guard/
+gla_1072,1010,10,in_stock,buy,same_day,25.00 CAD,20.00 CAD,FB64PC-1072,Fiber Glass Fire Blanket (1m x 1m),https://teslafiresystems.com/product/glass-fiber-fire-blanket-2/
+gla_475,1010,10,in_stock,buy,same_day,15.00 CAD,,75000,Fire Alarm Circuit Breaker Lock Off,https://teslafiresystems.com/product/fire-alarm-circuit-breaker-lock-off/
+gla_1733,1010,10,in_stock,buy,same_day,45.00 CAD,,12V5AH-1733,Fire Alarm Control Panel Battery - 12V5AH,https://teslafiresystems.com/product/fire-alarm-control-panel-battery-12v5ah/
+gla_1735,1010,10,in_stock,buy,same_day,45.00 CAD,,12V7AH-1735,Fire Alarm Control Panel Battery – 12V7AH,https://teslafiresystems.com/product/fire-alarm-control-panel-battery-12v7ah/
+gla_430,1010,10,in_stock,buy,same_day,136.89 CAD,,BFB-430,Fire Blanket and Bag,https://teslafiresystems.com/product/fire-blanket-and-bag/
+gla_20241,1010,10,in_stock,buy,same_day,10.00 CAD,,(no SKU),Fire Door Keep Closed Sign | Fire Rated Door Safety Sign,https://teslafiresystems.com/product/fire-door-keep-closed-sign-fire-rated-door-safety-sign/
+gla_439,1010,10,in_stock,buy,same_day,50.00 CAD,,TFLB-298A-439,"Fire Equipment Log Book for Fire Alarm Systems, Emergency Lighting, Fire Extinguishers &amp; Emergency Generators",https://teslafiresystems.com/product/fire-protection-equipment-log-book-298a/
+gla_1038,1010,10,in_stock,buy,same_day,38.55 CAD,,E-FEC-5-1038,"Fire Extinguisher Cover (Window) for 2.5 to 5lb Extinguisher (16"" x 11"")",https://teslafiresystems.com/product/fire-extinguisher-cover-window-for-2-5-to-5lb-extinguisher/
+gla_1070,1010,10,in_stock,buy,same_day,69.15 CAD,,EFEC20EL-1070,Fire Extinguisher Cover (With Window) – Fits 10 to 20 lb Extinguishers Medium 25 x 16 1/2,https://teslafiresystems.com/product/fire-extinguisher-cover-with-window-fits-10-to-20-lb-extinguishers-medium-25-x-16-1-2/
+gla_19317,1010,10,in_stock,buy,same_day,200.00 CAD,,(no SKU),Fire Hose Cabinet Wrench – 1½″ & 2½″ Hose Fittings,https://teslafiresystems.com/product/fire-hose-cabinet-wrench-1%c2%bd%e2%80%b3-2%c2%bd%e2%80%b3-hose-fittings/
+gla_18333,1010,10,in_stock,buy,same_day,133.50 CAD,,TFSPB-W-1-wd,Fire Safety Plan Box | Plain White,https://teslafiresystems.com/product/fire-safety-plan-box-plain-white/
+gla_18344,1010,10,in_stock,buy,same_day,150.00 CAD,,TFSPB-W-1-nd,Fire Safety Plan Box | White | No Decal,https://teslafiresystems.com/product/fire-safety-plan-box-white-no-decal/
+gla_996,1010,10,in_stock,buy,same_day,230.33 CAD,,(no SKU),"Fully Assembled 100' x 1-1/2"" Fire Hose & Rack",https://teslafiresystems.com/product/fully-assembled-1-1-2-fire-hose-rack-w-nozzle-npsh-100-ft-hose/
+gla_17226,1010,10,in_stock,buy,same_day,204.00 CAD,,TFSAR-50,"Fully Assembled 50' x 1-1/2"" Fire Hose Rack",https://teslafiresystems.com/product/fully-assembled-50-x-1-1-2-fire-hose-rack/
+gla_994,1010,10,in_stock,buy,same_day,212.50 CAD,,(no SKU),"Fully Assembled 75' x 1-1/2"" Fire Hose & Rack",https://teslafiresystems.com/product/fully-assembled-1-1-2-fire-hose-rack-w-nozzle-npsh-75-ft-hose/
+gla_18866,1010,10,in_stock,buy,3-day,450.00 CAD,390.00 CAD,1190700R,Gunnebo Fire Department Key Box - Keyed for Toronto,https://teslafiresystems.com/product/gunnable-fire-dept-key-box/
+gla_19314,1010,10,in_stock,buy,next_day,200.00 CAD,,C-15,"Heavy-Duty Single Hook Spanner & Hydrant Wrench - For Fire Hose Couplings, Hydrants & Valves",https://teslafiresystems.com/product/heavy-duty-single-hook-spanner-hydrant-wrench-for-fire-hose-couplings-hydrants-valves/
+gla_21873,1010,10,in_stock,buy,same_day,245.00 CAD,,R-15-24,"Heavy-Duty Swing-Type Fire Hose Reel | Wall-Mounted | Reel Only | For 1 1/2"" x 100' Single Jacket Fire Hose",https://teslafiresystems.com/product/heavy-duty-swing-type-fire-hose-reel-wall-mounted-1-1-2-x-100/
+gla_19313,1010,10,in_stock,buy,same_day,200.00 CAD,,R-15-18,"Heavy-Duty Swing-Type Fire Hose Reel |Wall-Mounted | Reel Only | For 1 1/2"" x 50'/75' Single Jacket Fire Hose",https://teslafiresystems.com/product/heavy-duty-swing-type-fire-hose-reel-wall-mounted-1-1-2-x-50-75-100/
+gla_20237,1010,10,in_stock,buy,same_day,10.00 CAD,,(no SKU),In Case of Fire Break Glass Sign | Fire Safety Emergency Instruction Sign,https://teslafiresystems.com/product/in-case-of-fire-break-glass-sign-fire-safety-emergency-instruction-sign/
+gla_18875,1010,10,in_stock,buy,same_day,1412.43 CAD,941.62 CAD,(no SKU),Inspecta-Shield Clear Fire Retardant - 5 Gallon Drum,https://teslafiresystems.com/product/inspecta-shield-clear-fire-retardant-5-gallon-drum/
+gla_420,1010,10,in_stock,buy,next_day,32.00 CAD,29.00 CAD,BKB-420,Keyed Lock for Fire Alarm Panels,https://teslafiresystems.com/product/keyed-lock-for-fire-alarm-panels/
+gla_349,1010,10,in_stock,buy,same_day,178.00 CAD,148.00 CAD,P4010ACLEDSCOCA,Kidde 120V 3-in-1 LED Strobe | Smoke + Carbon Monoxide Alarm [[10-Year Battery Backup &amp; Voice Alerts]] (P4010ACLEDSCOCA),https://teslafiresystems.com/product/kidde-120v-hardwired-interconnecting-3-in-1-led-strobe-and-10-year-talking-smoke-co-alarm/
+gla_428,1010,10,in_stock,buy,same_day,225.00 CAD,162.50 CAD,468094-428,Kidde 3 Storey Escape Ladder,https://teslafiresystems.com/product/3-story-escape-ladder/
+gla_20268,1010,10,in_stock,buy,same_day,126.00 CAD,56.00 CAD,900-0280CA,Kidde 900-0280CA | 120V Plug-In Carbon Monoxide Alarm w/ [[10-Year Sealed Battery Backup &amp; Digital Display]],https://teslafiresystems.com/product/kidde-900-0280ca-120v-plug-in-carbon-monoxide-alarm-w-10-year-sealed-battery-backup-digital-display/
+gla_973,1010,10,in_stock,buy,same_day,91.60 CAD,78.00 CAD,21032774,Kidde DETECT - 120V Photoelectric Smoke + Carbon Monoxide Alarm w/ [[10 Year Battery Backup & Voice Alerts]](30CUA10-VCA),https://teslafiresystems.com/product/kidde-detect-smoke-co-120v-w-10-year-sealed-battery-backup-voice-alerts/
+gla_1152,1010,10,in_stock,buy,same_day,76.40 CAD,63.99 CAD,21032773,Kidde DETECT - 120V Photoelectric Smoke + Carbon Monoxide Alarm w/[[AA Battery Backup & Voice Alerts]]|[[ Batteries Included]](30CUAR-VCA),https://teslafiresystems.com/product/kidde-detect-120v-photoelectric-smoke-carbon-monoxide-alarm-w-aa-backup-battery-30cuar-vca-batteries-included/
+gla_1252,1010,10,in_stock,buy,same_day,78.62 CAD,56.15 CAD,21031559,Kidde DETECT - 120V Photoelectric Smoke Alarm w/ [[10 Year Backup Battery]] (20SA10-CA),https://teslafiresystems.com/product/kidde-detect-120v-photoelectric-smoke-alarm-w-10-year-backup-battery-20sa10-ca/
+gla_970,1010,10,in_stock,buy,same_day,80.58 CAD,77.99 CAD,21032772,Kidde DETECT - Battery Operated Photoelectric Smoke & CO w/[[10 Year Sealed Battery & Voice Alerts]] (30CUD10-VCA),https://teslafiresystems.com/product/kidde-detect-battery-operated-smoke-co-10-year-sealed-battery/
+gla_975,1010,10,in_stock,buy,same_day,75.27 CAD,38.75 CAD,21031471,Kidde DETECT - Battery Operated Photoelectric Smoke Alarm w/[[10 Year Sealed Battery]] (20SD10-CA),https://teslafiresystems.com/product/kidde-detect-battery-operated-smoke-alarm-10-year-sealed-battery/
+gla_1015,1010,10,in_stock,buy,same_day,69.67 CAD,58.00 CAD,21032771,Kidde DETECT - Combination Smoke & Carbon Monoxide Alarm | Photoelectric Sensor | [[AA Battery Operated & Voice Alerts]] | 30CUDR-CA,https://teslafiresystems.com/product/kidde-detect-battery-operated-smoke-co-aa-battery-operated/
+gla_17530,1010,10,in_stock,buy,same_day,80.58 CAD,69.00 CAD,21031518,Kidde DETECT – Battery Operated Photoelectric Smoke & CO w/[[10 Year Sealed Battery]] - NO VOICE ALERT (30CUD10-CA),https://teslafiresystems.com/product/kidde_no-voice-alert-30cud10-ca/
+gla_17535,1010,10,in_stock,buy,same_day,9.00 CAD,5.50 CAD,21032239,Kidde Quick Connect Alarm Adapter,https://teslafiresystems.com/product/kidde-quick-connect-alarm-adapter/
+gla_354,1010,16,in_stock,buy,same_day,57.00 CAD,45.00 CAD,SM120X,Kidde SM120X - Smoke Alarm Relay,https://teslafiresystems.com/product/smoke-alarm-relay-sm120x/
+22178,1010,10,in_stock,buy,same_day,56.97 CAD,45.49 CAD,(no SKU),Kidde Sealed Battery Carbon Monoxide Alarm (C3010-CA),https://teslafiresystems.com/product/kidde-sealed-battery-carbon-monoxide-alarm-c3010-ca/
+gla_473,1010,10,in_stock,buy,same_day,15.00 CAD,,MP-300,Microm MP-300 EOL Resistor Plate- White 3.9K 1/2 WATT,https://teslafiresystems.com/product/mircom-mp-300-eol-resistor-plate-white-3-9k-1-2-watt/
+gla_1382,1010,10,in_stock,buy,same_day,75.00 CAD,,BL-10B - 24VDC-1382,"Mircom BL-10B - 24VDC 10"" Fire Alarm Bell",https://teslafiresystems.com/product/mircom-bl-10b-24vdc-10-fire-alarm-bell/
+gla_467,1010,10,in_stock,buy,same_day,65.00 CAD,,BL-6B-24V-6-467,"Mircom BL-6B - 24V 6"" Fire Alarm Bell",https://teslafiresystems.com/product/mircom-6inch-bell/
+gla_460,1010,10,in_stock,buy,same_day,95.00 CAD,,c2w-ba-460,Mircom C2W-BA Smoke Detector 12/24 VDC,https://teslafiresystems.com/product/mircom-c2w-ba-smoke-detector-12-24-vdc/
+gla_459,1010,10,in_stock,buy,same_day,550.00 CAD,,(no SKU),"Mircom FA-106R: Six Zone Fire Alarm Unit, Red Door",https://teslafiresystems.com/product/mircom-fa-106r-six-zone-fire-alarm-unit-red-door/
+gla_1397,1010,10,in_stock,buy,same_day,85.00 CAD,,FH-400-RR-1397,Mircom FH-400-RR - Wall/Ceiling Mount Horn (Red),https://teslafiresystems.com/product/mircom-fh-400-rr-wall-ceiling-mount-horn-red/
+gla_465,1010,10,in_stock,buy,same_day,85.00 CAD,,FH-400-WW-465,Mircom FH-400-WW - Wall/Ceiling Mount Horn (White),https://teslafiresystems.com/product/mircom-standard-horn/
+gla_1406,1010,10,in_stock,buy,same_day,120.00 CAD,,FHS-400-RR,Mircom FHS-400-RR - Wall Mount LED Horn/Strobe (Red),https://teslafiresystems.com/product/mircom-fhs-400-rr-wall-mount-led-horn-strobe-red/
+gla_471,1010,10,in_stock,buy,same_day,120.00 CAD,,FHS-400-WW-WM-471,Mircom FHS-400-WW - Wall Mount LED Horn/Strobe (White),https://teslafiresystems.com/product/mircom-strobe/
+gla_1401,1010,10,in_stock,buy,same_day,85.00 CAD,,FS400-RR,Mircom FS-400-RR - Wall Mount Strobe (Red),https://teslafiresystems.com/product/mircom-fs-400-rr-wall-mount-strobe-red/
+gla_1399,1010,10,in_stock,buy,same_day,85.00 CAD,,FS-400-WW,Mircom FS-400-WW - Wall Mount Strobe (White),https://teslafiresystems.com/product/mircom-fs-400-ww-wall-mount-strobe-white/
+gla_1386,1010,10,in_stock,buy,same_day,35.00 CAD,,MH-25R-1386,Mircom MH-25R - Mini Horn (Red),https://teslafiresystems.com/product/mircom-mh-25r-mini-horn-red/
+gla_470,1010,10,in_stock,buy,same_day,35.00 CAD,,(no SKU),Mircom MH-25W - Mini Horn (White),https://teslafiresystems.com/product/mircom-mini-horn/
+gla_1391,1010,10,in_stock,buy,same_day,45.00 CAD,,MH-S25RA,Mircom MH-S25RA - Sileanceable Mini Horn (Red),https://teslafiresystems.com/product/mircom-mh-s25ra-sileanceable-mini-horn-red/
+gla_1388,1010,10,in_stock,buy,same_day,45.00 CAD,,MH-S25WA-388,Mircom MH-S25WA - Sileanceable Mini Horn (White),https://teslafiresystems.com/product/mircom-mh-s25wa-sileanceable-mini-horn-white/
+gla_479,1010,10,in_stock,buy,same_day,48.45 CAD,,MS-401-479,Mircom MS-401 - Single Stage Pull Station,https://teslafiresystems.com/product/mircom-pullstation/
+gla_445,1010,10,in_stock,buy,same_day,5.50 CAD,5.00 CAD,NE20,PULL STATION LABEL - NO ELEVATOR,https://teslafiresystems.com/product/in-case-of-fire-pull-station-sticker/
+gla_433,1010,10,in_stock,buy,same_day,88.17 CAD,,(no SKU),Pull Station Cover w/ Breaker Bar,https://teslafiresystems.com/product/pullstation-cover/
+gla_1056,1010,10,in_stock,buy,same_day,175.00 CAD,,RTI-1,Remote Trouble Indicator RTI-1,https://teslafiresystems.com/product/remote-trouble-indicator-rti-1/
+gla_387,1010,10,in_stock,buy,next_day,325.00 CAD,150.00 CAD,SL-RM-12-36,Running Man Combo Exit Emergency Light Unit 12V 36W,https://teslafiresystems.com/product/running-man-combo-exit-emergency-light-unit/
+gla_381,1010,10,in_stock,buy,next_day,75.00 CAD,,VE2-RM-SP-L-U-OLR-M,Running Man LED Sign,https://teslafiresystems.com/product/running-man-led-sign/
+gla_1075,1010,10,in_stock,buy,same_day,10.00 CAD,5.00 CAD,S10,"SINGLE STAGE ALARM PULL STATION LABEL - ""DO NOT USE ELEVATOR""",https://teslafiresystems.com/product/in-case-of-fire-single-stage-alarm-sign-no-elevator/
+gla_1027,1010,10,in_stock,buy,same_day,198.50 CAD,143.75 CAD,SF-310-3,STRIKE FIRST SF-ABC310 | 5lb ABC Multi-Purpose Fire Extinguisher w/ Wall Bracket (3-Pack),https://teslafiresystems.com/product/strike-first-sf-abc310-5lb-multi-purpose-fire-extinguisher-w-wall-bracket-3-pack/
+gla_1009,1010,10,in_stock,buy,next_day,250.00 CAD,,WFDTN,Safe Signal WFDTN Waterflow Detector,https://teslafiresystems.com/product/safe-signal-wfdtn-waterflow-detector/
+gla_19253,1010,10,in_stock,buy,next_day,266.85 CAD,177.90 CAD,TFS15IND-50-19253,"Single Jacket Reel Hose (1 1/2"" x 50'/75')",https://teslafiresystems.com/product/single-jacket-reel-hose-1-1-2-x-50/
+gla_19256,1010,10,in_stock,buy,next_day,390.54 CAD,260.36 CAD,TFS15IND-100-19256,Single Jacket Reel Hose (1 1/2″ x 100′),https://teslafiresystems.com/product/single-jacket-reel-hose-1-1-2-x-100/
+gla_392,1010,10,in_stock,buy,next_day,35.00 CAD,,EL-7030A5,Single LED Emergency Light Remote Head - 6-24V5W,https://teslafiresystems.com/product/single-emergency-remote/
+gla_351,1010,10,in_stock,buy,same_day,25.00 CAD,16.00 CAD,T-SDT,Smoke Check - Smoke Detector Tester,https://teslafiresystems.com/product/smoke-check-smoke-detector-tester/
+gla_22122,1010,10,in_stock,buy,same_day,49.05 CAD,,T-CDT,Solo C6 - Carbon Monoxide (CO) Detector Tester,https://teslafiresystems.com/product/solo-c6-smoke-detector-tester/
+gla_324,1010,10,in_stock,buy,same_day,14.00 CAD,5.00 CAD,SPG,Sprinkler Guard,https://teslafiresystems.com/product/sprinkler-guard/
+gla_20239,1010,10,in_stock,buy,same_day,10.00 CAD,,(no SKU),Sprinkler Valve Control Room Sign with Directional Arrow | Fire Sprinkler Signage,https://teslafiresystems.com/product/sprinkler-valve-control-room-sign-with-directional-arrow-fire-sprinkler-signage/
+gla_17249,1010,10,in_stock,buy,same_day,185.00 CAD,126.40 CAD,TSFW-15,Sprinkler Wrench for 1/2” Heads,https://teslafiresystems.com/product/sprinkler-head-wrench-for-1-2/
+gla_16957,1010,10,in_stock,buy,same_day,495.00 CAD,,TFSPB-SS,Stainless Steel Fire Safety Plan Box,https://teslafiresystems.com/product/stainless-steel-fire-safety-plan-box/
+gla_18329,1010,10,in_stock,buy,same_day,550.00 CAD,,TFSPB-SS-1-ND,Stainless Steel Fire Safety Plan Box | No Decal,https://teslafiresystems.com/product/stainless-steel-fire-safety-plan-box-no-decal/
+gla_18331,1010,10,in_stock,buy,same_day,495.00 CAD,,TFSPB-SSWD-2,Stainless Steel Fire Safety Plan Box | Plain,https://teslafiresystems.com/product/stainless-steel-fire-safety-plan-box-plain/
+22720,1010,10,in_stock,buy,next_day,300.00 CAD,120.00 CAD,(no SKU),Sti-9740 / Sti-9645 Emergency Light Steel Wire Cover Cages,https://teslafiresystems.com/product/sti-9740-sti-9645-emergency-light-steel-wire-cover-cages/
+gla_17268,1010,10,in_stock,buy,same_day,90.00 CAD,,HDVB-2-17268,Strike First 10lb Dry Chemical & 5lb CO2 Heavy Duty Vehicle Bracket - HDVB-2,https://teslafiresystems.com/product/strike-first-5lb-heavy-duty-vehicle-bracket-hdvb-2/
+gla_17275,1010,10,in_stock,buy,same_day,95.00 CAD,,HDVB-3-17275,Strike First 20lb Dry Chemical & 10lb-15lb CO2 Heavy Duty Vehicle Bracket - HDVB-3,https://teslafiresystems.com/product/strike-first-5lb-heavy-duty-vehicle-bracket-hdvb-3/
+gla_17277,1010,10,in_stock,buy,same_day,150.00 CAD,,HDVB-4-17277,Strike First 30lb Dry Chemical Heavy Duty Vehicle Bracket - HDVB-4,https://teslafiresystems.com/product/strike-first-30lb-dry-chemical-heavy-duty-vehicle-bracket-hdvb-4/
+gla_312,1010,10,in_stock,buy,same_day,26.90 CAD,,UP5MD-312,Strike First 5lb ABC Medium Duty Fire Extinguisher Bracket - UP5MD,https://teslafiresystems.com/product/strike-first-5lb-abc-medium-duty-fire-extinguisher-bracket-up5hd/
+gla_17273,1010,10,in_stock,buy,same_day,285.00 CAD,194.75 CAD,SF-5CO2,Strike First 5lb CO2 | UL/ULC Approved | USCG Approved,https://teslafiresystems.com/product/strike-first-5lb-co2-fire-extinguisher/
+gla_17266,1010,10,in_stock,buy,same_day,85.00 CAD,,HDVB-1-17266,Strike First 5lb Heavy Duty Vehicle Bracket - HDVB-1,https://teslafiresystems.com/product/strike-first-5lb-heavy-duty-vehicle-bracket-hdvb-1/
+gla_1032,1010,10,in_stock,buy,same_day,125.00 CAD,77.25 CAD,SF-ABC110ST-2,Strike First SF-ABC110ST | 2.5lb ABC Multi-Purpose Fire Extinguisher w/Vehicle Bracket (2-Pack),https://teslafiresystems.com/product/strike-first-sf-abc110st-2-5lb-multi-purpose-fire-extinguisher-w-vehicle-bracket-2-pack/
+gla_266,1010,10,in_stock,buy,same_day,69.35 CAD,40.75 CAD,SF-110ST,Strike First SF110ST | Compact 2.5lb ABC I UL/ULC & USCG Approved,https://teslafiresystems.com/product/strike-first-compact-sf110st-2-5lbs-ul-ulc-uscg-approved/
+gla_264,1010,10,in_stock,buy,same_day,87.50 CAD,51.25 CAD,SF310,Strike First SF310 I Versatile 5lb ABC I UL/ULC & USCG Approved,https://teslafiresystems.com/product/strike-first-versatile-5lbs-ul-ulc-uscg-approved/
+gla_992,1010,10,in_stock,buy,same_day,110.00 CAD,75.00 CAD,SF340-VB,Strike First SF340 I 5lb 3A40B:C I UL/ULC &amp; USCG Approved I Mixed Use w/ Vehicle Bracket,https://teslafiresystems.com/product/strike-first-sf340-5lbs-ul-ulc-uscg-approved-mixed-use/
+gla_270,1010,10,in_stock,buy,same_day,147.90 CAD,79.95 CAD,SF680,Strike First SF680 I 10lb ABC I UL/ULC & USCG Approved I Multi-Purpose,https://teslafiresystems.com/product/multi-purpose-strike-first-sf680-10lbs-ul-ulc-uscg-approved/
+gla_268,1010,10,in_stock,buy,same_day,403.00 CAD,275.00 CAD,SF6LK,Strike First SF6LK I 6L I UL/ULC Approved I Kitchen Use,https://teslafiresystems.com/product/strike-first-sf6lk-6l-ul-ulc-approved-kitchen-use/
+gla_1703,1010,10,in_stock,buy,same_day,52.00 CAD,37.00 CAD,SRFE2A,Strike First SRFE2A | 2lb ABC | UL/ULC Approved I Residential,https://teslafiresystems.com/product/strike-first-srfe2a-2lbs-ul-ulc-approved-residential/
+gla_347,1010,10,in_stock,buy,same_day,98.59 CAD,79.00 CAD,HR-100,"Swing Rack for 50', 75' & 100' x 1-1/2"" Single Jacket Lined Fire Hose",https://teslafiresystems.com/product/swing-pin-rack-for-50-ft-75-ft-100-ft-1-1-2-single-jacket-lined-fire-hose/
+gla_17897,1010,10,in_stock,buy,same_day,290.00 CAD,265.00 CAD,DD4120-ST15-17897,System Sensor - D4120 4-Wire Photoelectric Duct Smoke Detector and 1.5' Sampling Tube,https://teslafiresystems.com/product/system-sensor-d4120-4-wire-photoelectric-duct-smoke-detector-with-1-5-sampling-tube-exhausting-tube-operates-on-24v-fire-alarm-and-120v-furnace-shutdown/
+gla_1058,1010,10,in_stock,buy,same_day,245.00 CAD,,D4120-1058,System Sensor D4120 4-Wire Photoelectric Duct Smoke Detector,https://teslafiresystems.com/product/system-sensor-d4120-innovairflex-4-wire-photoelectric-duct-smoke-detector/
+gla_477,1010,10,in_stock,buy,same_day,36.95 CAD,,DST 1.5,System Sensor DST1.5 – 1.5′ Sampling Tube for Duct Smoke Detectors,https://teslafiresystems.com/product/system-sensor-dst-1-5-1-5-ft-sampling-tube/
+gla_21309,1010,10,in_stock,buy,same_day,45.00 CAD,,DST3,System Sensor DST3 - 3' Sampling Tube for Duct Smoke Detectors,https://teslafiresystems.com/product/system-sensor-3-ft-sampling-tube/
+gla_19312,1010,10,in_stock,buy,next_day,250.00 CAD,162.00 CAD,OSY2,System Sensor OSY2 | Outside Screw & Yoke - Valve Supervisory Switch | UL/FM Approved - NEMA 3R Rated,https://teslafiresystems.com/product/system-sensor-osy2-osy-valve-supervisory-switch/
+gla_1000,1010,10,in_stock,buy,next_day,250.00 CAD,162.00 CAD,OSY2A,System Sensor OSY2A | Outside Screw & Yoke - Valve Supervisory Switch with Mounting Bracket | ULC/FM Approved - NEMA 3R Rated,https://teslafiresystems.com/product/system-sensor-osy2a-osy-valve-supervisory-switch/
+gla_1011,1010,10,in_stock,buy,next_day,418.75 CAD,350.00 CAD,PSP1A,System Sensor PSP1A | Plug-in Special Purpose Supervisory Switch | ULC Listed - NEMA 3 Rated,https://teslafiresystems.com/product/system-sensor-psp1a-plug-in-supervisory-switch/
+gla_1008,1010,10,in_stock,buy,next_day,250.00 CAD,230.00 CAD,WFD20N,"System Sensor WFD20 | Waterflow Detector for 2"" Steel Sprinkler Pipe | NEMA 4 Rated - UL/FM Approved",https://teslafiresystems.com/product/system-sensor-wfd20-waterflow-detector-2-inch/
+gla_1005,1010,10,in_stock,buy,next_day,250.00 CAD,230.00 CAD,WFD25N,"System Sensor WFD25 | Waterflow Detector for 2½"" Steel Sprinkler Pipe | NEMA 4 Rated - UL/FM Approved",https://teslafiresystems.com/product/system-sensor-wfd25-waterflow-detector-2-5-inch/
+gla_1007,1010,10,in_stock,buy,next_day,250.00 CAD,230.00 CAD,WFD40N,"System Sensor WFD40 | Waterflow Detector for 4"" Steel Sprinkler Pipe | NEMA 4 Rated - UL/FM Approved",https://teslafiresystems.com/product/system-sensor-wfd40-waterflow-detector-4-inch/
+gla_1003,1010,10,in_stock,buy,next_day,250.00 CAD,230.00 CAD,WFD60N,"System Sensor WFD60 | Waterflow Detector for 6"" Steel Sprinkler Pipe | NEMA 4 Rated - UL/FM Approved",https://teslafiresystems.com/product/system-sensor-wfd60-waterflow-detector-6-inch/
+gla_463,1010,10,in_stock,buy,same_day,48.00 CAD,24.35 CAD,5601A,System Sensor | 5601A Mechanical Heat Detector | 135°F Fixed-Temperature / Rate-Of-Rise,https://teslafiresystems.com/product/mechanical-heat-detector-135f-fixed-temperature-rate-of-rise/
+gla_20252,1010,10,in_stock,buy,same_day,40.00 CAD,24.35 CAD,5602A,System Sensor | 5602A Mechanical Heat Detector |194°F Fixed Temperature / Rate-of-Rise,https://teslafiresystems.com/product/system-sensor-5602a-mechanical-heat-detector-194f-fixed-temperature-rate-of-rise/
+gla_20263,1010,10,in_stock,buy,same_day,40.00 CAD,24.35 CAD,5603A,System Sensor | 5603A Mechanical Heat Detector | 135°F (57°C) Fixed Temperature,https://teslafiresystems.com/product/system-sensor-5603a-mechanical-heat-detector-135f-57c-fixed-temperature/
+gla_20188,1010,10,in_stock,buy,same_day,40.00 CAD,24.35 CAD,5604A,System Sensor | 5604A Mechanical Heat Detector | 194°F Fixed Temperature,https://teslafiresystems.com/product/system-sensor-5604a-mechanical-heat-detector-194f-fixed-temperature/
+gla_19630,1010,10,in_stock,buy,same_day,350.00 CAD,325.00 CAD,D4120+DST3,System Sensor – D4120 4-Wire Photoelectric Duct Smoke Detector and 3′ Sampling Tube,https://teslafiresystems.com/product/system-sensor-d4120-4-wire-photoelectric-duct-smoke-detector/
+gla_19315,1010,10,in_stock,buy,same_day,200.00 CAD,,(no SKU),TRIVET® Model C-32 - Hose & Hydrant Wrench - ½″ to 4″,https://teslafiresystems.com/product/trivet-model-c-32-hose-hydrant-wrench-%c2%bd%e2%80%b3-to-4%e2%80%b3/
+gla_334,1010,10,in_stock,buy,same_day,20.00 CAD,10.55 CAD,TY315,"Tyco TY315 TY-B Series | Upright Fire Sprinkler Head | 5.6K - Standard Response - 155°F | Natural Brass - 1/2"" NPT",https://teslafiresystems.com/product/tyco-ty315-upright-sprinkler-head-standard-response/
+gla_326,1010,10,in_stock,buy,same_day,20.00 CAD,15.00 CAD,TY-325,"Tyco TY325 TY-B Series | Pendent Fire Sprinkler Head | 5.6K - Standard Response - 155°F | Chrome Plated - 1/2"" NPT",https://teslafiresystems.com/product/sprinkler-head-1-2/
+gla_1029,1010,10,in_stock,buy,same_day,65.00 CAD,59.00 CAD,T-ERHC100,Vinyl Cover for 100' Fire Hose Assembled on a Swing Rack,https://teslafiresystems.com/product/vinyl-cover-for-100-ft-pin-rack-english/
+gla_1031,1010,10,in_stock,buy,same_day,51.00 CAD,49.00 CAD,T-ERHC75,Vinyl Cover for 75' Fire Hose - Assembled on a Swing Rack,https://teslafiresystems.com/product/1031/
+gla_422,1010,10,in_stock,buy,same_day,10.00 CAD,,NL109,"Vinyl Fire Extinguisher Sign - Peel & Stick (4"" x 12"")",https://teslafiresystems.com/product/fire-extinguisher-sign-plastic/
+gla_443,1010,10,in_stock,buy,same_day,109.76 CAD,,FBR2-443,Wool Fire Blanket,https://teslafiresystems.com/product/wool-fire-blanket/
