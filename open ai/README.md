@@ -7,6 +7,12 @@ Product feed for OpenAI Ads Manager (Canada-only ad account), built from the liv
 | `teslafiresystems_openai_feed.jsonl` | Upload file (OpenAI product feed spec, one product per line) |
 | `teslafiresystems_openai_feed.csv` | Same feed as a spreadsheet for review |
 
+## Links
+- JSONL (GitHub Pages): https://skgroupstor.github.io/tesla-merchant-centre/open%20ai/teslafiresystems_openai_feed.jsonl
+- CSV (GitHub Pages): https://skgroupstor.github.io/tesla-merchant-centre/open%20ai/teslafiresystems_openai_feed.csv
+- JSONL (raw fallback): https://raw.githubusercontent.com/SKGroupstor/tesla-merchant-centre/main/open%20ai/teslafiresystems_openai_feed.jsonl
+- CSV (raw fallback): https://raw.githubusercontent.com/SKGroupstor/tesla-merchant-centre/main/open%20ai/teslafiresystems_openai_feed.csv
+
 ## Feed settings
 - Seller: Tesla Fire Systems Inc
 - Market: `target_countries: ["CA"]`, `store_country: "CA"`, prices in CAD

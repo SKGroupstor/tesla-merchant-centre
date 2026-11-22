@@ -10,6 +10,7 @@ Right now there is **one** GitHub repo for this — `github.com/SKGroupstor/tesl
 |---|---|---|
 | `GMC-local-inventory-feed-inc.csv` | **Tesla Fire Systems Inc** (Canada, teslafiresystems.com) | A **local inventory feed** — the add-on file that tells Google which store carries an item, for store-pickup/local-ads badges. It is *not* the primary product listing for Inc. |
 | `google-merchant-feed-llc.csv` | **Tesla Fire Systems LLC** (US, teslafire.com) | The **primary product feed** — full listings (title, description, price, GTIN, shipping weight, etc.) for Merchant Center's main Shopping/Free-listings feed. |
+| `open ai/teslafiresystems_openai_feed.jsonl` | **Tesla Fire Systems Inc** (Canada, teslafiresystems.com) | The **ChatGPT (OpenAI) Ads product feed** — 313 products, Canada-only, CAD. Upload file for OpenAI Ads Manager. A `.csv` copy sits beside it for review. |
 
 That split isn't a mistake — it reflects how each entity actually submits to Google:
 
@@ -38,6 +39,19 @@ tesla-merchant-centre/
 ├── .github/workflows/backup-on-update.yml
 └── backups/                              automated pre-push snapshots + a couple of manual historical uploads
 ```
+
+## ChatGPT (OpenAI) Ads feed — Tesla Fire Systems Inc
+
+Product feed for the Canada-only OpenAI Ads Manager account, built from the live teslafiresystems.com catalog (313 products, prices in CAD, `target_countries: ["CA"]`). It follows OpenAI's product feed spec, not Google's, so it lives in its own `open ai/` folder.
+
+| File | Use | GitHub Pages URL | Raw URL (fallback) |
+|---|---|---|---|
+| `teslafiresystems_openai_feed.jsonl` | Upload to Ads Manager | [https://skgroupstor.github.io/tesla-merchant-centre/open%20ai/teslafiresystems_openai_feed.jsonl](https://skgroupstor.github.io/tesla-merchant-centre/open%20ai/teslafiresystems_openai_feed.jsonl) | [https://raw.githubusercontent.com/SKGroupstor/tesla-merchant-centre/main/open%20ai/teslafiresystems_openai_feed.jsonl](https://raw.githubusercontent.com/SKGroupstor/tesla-merchant-centre/main/open%20ai/teslafiresystems_openai_feed.jsonl) |
+| `teslafiresystems_openai_feed.csv` | Review in Excel/Sheets | [https://skgroupstor.github.io/tesla-merchant-centre/open%20ai/teslafiresystems_openai_feed.csv](https://skgroupstor.github.io/tesla-merchant-centre/open%20ai/teslafiresystems_openai_feed.csv) | [https://raw.githubusercontent.com/SKGroupstor/tesla-merchant-centre/main/open%20ai/teslafiresystems_openai_feed.csv](https://raw.githubusercontent.com/SKGroupstor/tesla-merchant-centre/main/open%20ai/teslafiresystems_openai_feed.csv) |
+
+- OpenAI Ads Manager takes the feed by **SFTP upload** (Tools → Feeds → Create Feed), not a scheduled URL fetch, so these links are for download and reference.
+- OpenAI treats each upload as the full catalog; refresh at least daily.
+- Feed settings and notes: [`open ai/README.md`](open%20ai/README.md). Spec: https://developers.openai.com/commerce/specs/file-upload/products
 
 ## How it's hosted
 
