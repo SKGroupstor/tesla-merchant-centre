@@ -31,6 +31,10 @@ tesla-merchant-centre/
 ├── google-merchant-feed-llc.csv         120 rows (+ header) — id, title, description, link, image_link, availability,
 │                                                                price, sale_price, brand, condition, gtin, mpn,
 │                                                                identifier_exists, shipping_weight
+├── open ai/                              ChatGPT (OpenAI) Ads product feed — Tesla Fire Systems Inc, Canada-only, CAD
+│   ├── teslafiresystems_openai_feed.jsonl   313 products — upload file for OpenAI Ads Manager (SFTP)
+│   ├── teslafiresystems_openai_feed.csv     same feed as a spreadsheet for review
+│   └── README.md                            feed settings and upload steps
 ├── .github/workflows/backup-on-update.yml
 └── backups/                              automated pre-push snapshots + a couple of manual historical uploads
 ```
