@@ -1,5 +1,11 @@
 # tesla-merchant-centre — what this repo is
 
+> **Moving (2026-11-22):** these feeds now have their own repos with custom domains.
+> - Canada (Tesla Fire Systems Inc): [tesla-fire-systems-inc-canada-feeds](https://github.com/SKGroupstor/tesla-fire-systems-inc-canada-feeds) → `https://data.teslafiresystems.com`
+> - United States (Tesla Fire Systems LLC): [tesla-fire-systems-llc-usa-feeds](https://github.com/SKGroupstor/tesla-fire-systems-llc-usa-feeds) → `https://data.teslafire.com`
+>
+> This repo stays live until Merchant Center's scheduled-fetch URLs are switched to the new domains. Don't update feeds here after that.
+
 *Reviewed live on GitHub 2026-10-11; this file was pushed the same day.*
 
 ## One repo, not two
